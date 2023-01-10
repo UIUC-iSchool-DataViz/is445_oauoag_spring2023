@@ -276,18 +276,18 @@ assignment (or in the case of emergencies, as soon as practicable).
 
 **Grading Scale:**
 
-| 94-100       | A
-| 90-93        | A-
-| 87-89        | B+
-| 83-86        | B
-| 80-82        | B-
-| 77-79        | C+
-| 73-76        | C
-| 70-72        | C-
-| 67-69        | D+
-| 63-66        | D
-| 60-62        | D-
-| 59 and below | F
+| above 94        | A
+| 90-93.99        | A-
+| 87-89.99        | B+
+| 83-86.99        | B
+| 80-82.99        | B-
+| 77-79.99        | C+
+| 73-76.99        | C
+| 70-72.99        | C-
+| 67-69.99        | D+
+| 63-66.99        | D
+| 60-62.99        | D-
+| 59.99 and below | F
 
 ### Incompletes
 
