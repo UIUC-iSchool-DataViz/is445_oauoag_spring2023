@@ -9,6 +9,8 @@ In keeping with University and iSchool policy, all students are required to enga
 
 If you feel ill or are unable to come to class or complete class assignments due to issues related to COVID-19, including but not limited to: testing positive yourself, feeling ill, caring for a family member with COVID-19, or having unexpected child-care obligations, should contact their instructor immediately and cc their advisor.
 
+It is likely we can give you more time on assignments, however you need to reach out to your academic advisor and the course instructor *as soon as possible* so we have as much "runway" as possible in order to support you.
+
 Additionally, please be aware that there are mental health resources available to students:
  * https://www.counselingcenter.illinois.edu/ 
  * https://mckinley.illinois.edu/medical-services/mental-health 
@@ -17,7 +19,7 @@ Additionally, please be aware that there are mental health resources available t
 
 ## Impact on assignments
 
-Finally, due to the current messiness of the COVID learning environment, we are allowing up to three late homeworks.  If you need to “use” one of your late homeworks email the instructor and/or the TA.  You do not need to provide any explanation for why you’d like to use one of your late homeworks.  You will then have until the end of the week -- the Friday after the homework was due, midnight -- to turn in this assignment.  No extensions can be applied to Weekly Viz reports or any parts of the Final Project.
+Finally, due to the current messiness of the COVID learning environment, we are allowing up to three late homeworks.  If you need to “use” one of your late homeworks use the "Extension Request" tool for each assignment in that week's module and specify which request number you will be using (we will be keeping track of extensions, so please be accurate with your specified extension number).  The extension request needs to be submitted *before the assignment is due* and can not be requested retroactively.  You do not need to provide any explanation for why you’d like to use one of your late homeworks.  You will then have one extra week to submit this assignment.  No extensions can be applied to Weekly Viz reports or any parts of the Final Project.
 
 Late policies for homeworks not on extension include: 10% off for 1 day late, 20% off for 2 days late, 30% off for 3 days late.  All homeworks not on extension will be given a zero if turned in after 3 days past the due date.
 
@@ -205,19 +207,25 @@ This syllabus may be obtained in alternative formats upon request. Please contac
 
 # Assignments and Evaluation
 
-Students will be graded based on a combination of assignments (70%: 40% (maximum) standard prose/code assignments and
-30% weekly visualization reports) and a final
+Students will be graded based on a combination of assignments (70%: 50% (maximum) standard prose/code assignments and
+20% weekly visualization reports) and a final
 project (30%).  The final project will be a capstone to the course, and will
 have greater flexibility in software packages and data sources.  This project
 will be introduced around Week 8.
 
 There will be opportunities for extra credit in the homework and final project portions.  The *maximum* homework score is 
-fixed at 40% (even with extra credit included).
+fixed at 50% (even with extra credit included).
+
+There are several homework assignments which are **required** to pass the course:
+ * Any installation assignments (Part of Homework #1, Homework #5, and Homework #7) with a grade of 85% or better on *each* assignment
+ * Final-project preparatory assignments: Homework #6, *either* Homework #9 *or* Homework #10 with a grade of 50% or better on *each* assignment
+ 
+Failure to submit these assignments above these grading thresholds will automatically lead to a failing grade in the course.
 
 **In summary, your grades consist of:**
 
-| 40% | Standard assignments in prose or code form (40% is the MAX grade, even with extra credit)
-| 30% | Weekly visualization reports
+| 50% | Standard assignments in prose or code form (50% is the MAX grade, even with extra credit)
+| 20% | Weekly visualization reports
 | 30% | Final project
 
 
