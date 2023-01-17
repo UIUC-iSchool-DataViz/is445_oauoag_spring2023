@@ -8,7 +8,7 @@ description: >-
   What are some of the basics of how we interpret visualizations?  How can we
   describe the process of making choices, understanding our audience, and so
   forth?
-date: 2022-08-23
+date: 2023-01-17
 ---
 
 
@@ -25,71 +25,7 @@ Website.](https://chancellor.illinois.edu/land_acknowledgement.html)
 
 ## COVID-19 Policies
 
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_spring2022/syllabus.html).
-
----
-
-## IN PERSON: COVID-19 Policies
-
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/syllabus.html).
-
-### Masks in class (and buildings) are no longer required by the University, but recommended by the CDC for high transmissibility areas (which we are in) 
-
-
-notes:
-So, all of this isn't news to anybody probably but a few things to be aware of
-* masks are no longer required by the university, but recommended by the CDC, which we acknowledge is confusing
-* so, we'll just strongly recommend that folks wear masks, long covid is real and it is scary
-* at the same time, please don't make assumptions about why a person does or does not wear a mask -- we don't know what is going on in any given person's life in detail!
-
----
-
-## IN PERSON: COVID-19 Policies
-
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/syllabus.html).
-
-### Masks in class (and buildings) are no longer required by the University, but recommended by the CDC for high transmissibility areas (which we are in) 
-
-### Other ways to access course materials
-
-notes:
-which brings us to -- other ways to access materials
-* recordings from prior semester -- show on canvas
-* Zoom recordings going on now, will be posted after class -- BE AWARE THIS IS NOT LISTED AS A HYBRID CLASS
-
----
-
-## IN PERSON: COVID-19 Policies
-
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_spring2022/syllabus.html).
-
-### Masks in class (and buildings) are no longer required by the University, but recommended by the CDC for high transmissibility areas (which we are in) 
-
-### Other ways to access course materials
-
-### If you feel unwell, stay home!
-
-notes:
-which brings us to, finally -- if you feel unwell, stay home!
-
-This includes if you feel anxious/just a cold... attendance... make best choices for self... etc
-
----
-
-## IN PERSON: COVID-19 Policies
-
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_spring2022/syllabus.html).
-
-### Masks in class (and buildings) are no longer required by the University, but recommended by the CDC for high transmissibility areas (which we are in) 
-
-### Other ways to access course materials
-
-### If you feel unwell, stay home!
-
-### Will move to online modalities if *I* get COVID
-
-notes:
-we do have plans in place for if I get covid... could be out for a while... recordings/online
+Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/syllabus.html).
 
 ---
 
@@ -106,20 +42,20 @@ Just a heads up there is a colloqium if you want to learn more about folk's rese
 
 ## Class Size Notes
 
-125+ across two sections!
+74+ for this course!
 
 **Strategies:**
- * a total of 12 hours of office hours (Prof+TA's) every week
+ * a total of >10 hours of office hours (Prof+TA's) every week (we will be updating these hours shortly!)
  * utilize Slack for general question/answer (can be across sections!)
  * group options for several homeworks/final project
 
 
 notes:
-so, we have 125 students in this class across two sections, this is a large class!
+so, we have 74 students in this class, this is a large class!
 
 we will go over some of these strategies in detail, but I wanted to give you an overview of somethings that we are doing to cover everybody AND some things you can do to help us and your fellow classmates out
 
-the first thing is we have an extra 12 hours of help time outside of class to answer questions in the form of office hours (more details next slide)
+the first thing is we have an extra >10 hours of help time outside of class to answer questions in the form of office hours (more details next slide) 
 
 also, we will have a Slack channel (more on that in a moment) where you can get more quick responses from the instructional team if you post in the #general channel
 
@@ -133,19 +69,22 @@ finally, we have several assignments that can be turned in as a group to allow f
 IN PERSON: 12:30-3:20PM Tuesdays
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: Mon, Wed 10am-11am (online)
-
-TA: Qiuyan Guo - `qqguo2@illinois.edu`
- * Office Hours: Tues, Thurs, Fri 8:30am-10:30am (online)
+ * Office Hours: Mon 3-4pm, Wed 12:45-1:45pm (online)
  
 TA: Leon Hounnou - `hounnou2@illinois.edu`
- * Office Hours: Mon, Fri 4-6pm (online)
+ * Office Hours: Thurs, Fri 4-5pm (online)
 
-IN PERSON: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/
+TA: Guangchun Zheng - `gzheng6@illinois.edu`
+ * Office Hours: Tuesdays 1:30-3:30pm (online)
+
+TA: Xiujia Yang - `xiujiay2@illinois.edu `
+ * Office Hours: TBD (online)
+
+Course website: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/
 
 notes: 
 
-Here are those 12 hours of office hours for you.
+Here are some of those hours of office hours for you.  We are still working on finalizing this and will add some more!
 
 So you see that we have LOTS of office hours throughout the week -- this is with the idea that folks may be in and out of class as illness/etc happens (but hopefully doesn't!)
 
@@ -162,11 +101,11 @@ Now, the website!
 
 ## In summary: where things will be located:
 
- * Canvas: https://canvas.illinois.edu/courses/21951 - where the grades and assignments will be posted
+ * Canvas: https://canvas.illinois.edu/courses/32263 - where the grades and assignments will be posted
 
- * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/  - where lecture slides, notebooks, data & general course info will live.
+ * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/ - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445fall2022.slack.com - the best place to ask questions in the `#general` channel
+ * Slack: https://is445-spring2023.slack.com/ - the best place to ask questions in the `#general` channel
 
 ---
 
@@ -279,7 +218,7 @@ about these types of data, and how we approach visualizing them.
 
 ---
 
-## Turn to the person next to you/do on your own
+## In a breakout group
 
 Visualize the results of your group's collective "data".
 
@@ -289,6 +228,13 @@ Visualize the results of your group's collective "data".
 * How many hours do you spend online in classes each week?
 
 Don't forget to say hi to eachother!
+
+ * Jamboard 1 (Groups 1-10): https://jamboard.google.com/d/1JdXo144A0BIAb1wzeGU-5p_Sgfp5t3yCtu2hjRLSUnk/edit?usp=sharing
+ * Jamboard 2 (Groups 11-20): https://jamboard.google.com/d/1nBi0qz9Dbk_qBJa5F8ClJzW0pB__2PriRWhYThs4UTs/edit?usp=sharing 
+
+**There is a limit of 50 people per jamboard, so make sure you match your breakout group number.**
+
+**You must be signed in with your @illinois.edu address.**
 
 
 notes:
@@ -321,7 +267,7 @@ We have to do it!
  2. Install Week 1 libraries
 
 see:
-https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week01/installation_instructions.html
+https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/week01/installation_instructions.html
 
 
 ---
@@ -332,8 +278,8 @@ https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week01/installation
  * Week 2 - Data Storage and Operations
  * Week 3 - Types of Viz and Choosing Colors
  * Week 4 - Beginning interactivity
- * Week 5 - Continuing interactivity with bqplot (**I am out of town this week!**)
- * Week 6 - More with dashboards & Map Viz
+ * Week 5 - Continuing interactivity with bqplot
+ * Week 6 - More with dashboards & Map Viz (**possible flipped class**)
  * Week 7 - Maps, maps and more maps
  
 notes:
@@ -348,20 +294,22 @@ in different ways.
 
 We might start getting into javascript earlier, depending on how we are doing.
 
-**Please be aware!** I will be at a conference during week #5, but we will have recordings of the material from last semester for you all to look at and I will be available on Slack that week as well
+**be aware**: that we are trying out some "flipped" classes for this semester around the harder assignments so folks can get extra help -- this will happen around HW#6 and the final projects.  This just means that you are expected to watch the recording *before* the class and then come to the class with quesstions about the assignment
+
 
 ---
 
 ## Syllabus, cont
 
  * Week 8 - Starboard and Intro to Javascript
- * Week 9 - Viz Audience; More Starboard/Observable, Javascript & Vega-lite
- * Week 10 - Intro to Jekyll
- * Week 11 - More with Jekyll+Altair, Publishing Viz
- * Week 12/13 - A few more Jekyll+Altair+vega-lite things
- * Week 14 - Fall break!
- * Week 13/15 - Scientific Viz & AVL Guest lecture
- * Week 15/16 - Network Visualization & Word clouds
+ * Week 9 - Spring break! No classes!
+ * Week 10 - Viz Audience; More Starboard/Observable, Javascript & Vega-lite
+ * Week 11 - Intro to Jekyll
+ * Week 12 - More with Jekyll+Altair, Publishing Viz
+ * Week 13 - A few more Jekyll+Altair+vega-lite things
+ * Week 14 - More Jekyll+Altair+vega-lite things
+ * Week 15 - Scientific Viz & AVL Guest lecture (**partially flipped class**)
+ * Week 16 - Network Visualization & Word clouds (**probable flipped class**)
 
 notes:
 Toward the end of class we are going to have a slightly more free-form set of
@@ -385,7 +333,7 @@ basically, we'll start with the basics - I'm assuming you are coming in with Pyt
 
 ## Assumptions about Python experience
 
-IS430 + a programming-based project
+IS430 + a programming project
 
 or 
 
@@ -404,14 +352,14 @@ Basically, I'm expecting that you understand all the logical operations like if-
 
 I am also expecting that you have some experience not just doing python homeworks assigned in a class, but also doing a small project on your own where you had to practice some debugging, looking up answers on stackoverflow, etc
 
-also be aware: as this is a graduate-level course, the homeworks will build on concepts we cover in class but may require extra out-of-class work on your behalf
+also be aware: as this is a graduate-level course, the homeworks will build on concepts we cover in class but may require extra out-of-class work on your behalf in cluding, but not limited to, coming to office hours and/or reaching out on slack
 
 
 ---
 
 ## Assumptions about Python experience
 
-IS430 with a programming project
+IS430 + a programming project
 
 or 
 
@@ -430,7 +378,14 @@ In addition to all of the hours of office hours, you should check out the academ
 
 ---
 
-# HERE: have histogram of time it takes folks to do the homework
+## How much work in this class?
+
+![histogram of hours spent on homework](images/hwquestion.png)
+
+notes:
+be aware that this was from a survey that generally happens ~1/2 way through the course, so later parts of the course might take more effort
+
+some folks find the HW doesn't take that long, but others do say it takes longer -- I suspect this has to do with Python/programming background but since I didn't want identifying info in the survey I can't be certain
 
 ---
 
@@ -507,6 +462,8 @@ get in the way of the underlying meaning?
 
 (Today will be a little lecture heavy)
 
+**Some classes will be flipped!**
+
 notes:
 This structure will likely be deviated from during the course, but in general
 we will start with lecture, take a break, then continue with collaborative or
@@ -520,13 +477,15 @@ simply be a "performance" of coding, but instead an opportunity to learn.
 
 YOU HAVE THE NOTES BEFORE CLASS.
 
+final reminder -- some of the classes will be flipped!
+
 ---
 
 ## Grading
 
- * 40% Standard assignments in prose or code form
- * 30% Weekly visualization reports
- * 30% Final project [teaser trailer](https://jnaiman.github.io/online_cv_public/)
+ * 50% Standard assignments in prose or code form (see syllabus for some details about "required" assignments)
+ * 20% Weekly visualization reports
+ * 30% Final project ([teaser trailer](https://jnaiman.github.io/online_cv_public/))
 
 notes:
 Your weekly assignments will take different forms.  The first assignment will
@@ -535,6 +494,22 @@ either notebook (coding) based or prose-based as well.
 
 The final project will be described later in class, but will take the form of a
 group project that touches on coding as well as visual design.
+
+---
+
+## Grading
+
+ * 50% Standard assignments in prose or code form (see syllabus for some details about "required" assignments)
+ * 20% Weekly visualization reports
+ * 30% Final project ([teaser trailer](https://jnaiman.github.io/online_cv_public/))
+ 
+**We will drop the lowest homework score, however there are some required assignments.**
+
+notes:
+
+part of the syllabus quiz will be checking out the HW policies in more detail -- we will drop the lowest HW score, however there 
+are several assignments you must submit and get above a certain grade on to pass the class -- these are installation assignments 
+and those that are considered "prepratory" for the final project
 
 ---
 
@@ -565,7 +540,7 @@ Each week, one of you will at random be asked to describe the visualization you 
 
 See the course syllabus: 
 
-https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/syllabus.html
+https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/syllabus.html
 
 notes:
 These are TOTally optional - more on that in a minute.
@@ -606,18 +581,24 @@ Click on "Submission Details" to see your report, but again, this will only work
 
 ---
 
-## Our tools
+## Our software/languages
 
  * Python, with some Javascript along the way
- * Jupyter and Jupyter notebooks 
+ * [Jupyter](https://jupyter.org/) & Jupyter notebooks
  * The occasional usage of a shell such as bash
- * Git/GitHub toward the end of class
+ * Git & [GitHub](https://github.com/) (toward end of class)
+ * [Starboard](https://starboard.gg/) 
+ * Markdown & [Jekyll](https://jekyllrb.com/)
  * Slack
 
 notes:
 You will be expected to write code in Python, and to learn the very basics of
 Javascript.  Your projects may be turned in via git.  We will also utilize
 Slack for class communication.
+
+These tools represent many different ways to explore and visualize data.  We'll
+use a mix of local installations & web-services.
+
 
 ---
 
@@ -637,19 +618,6 @@ This class is not meant to teach you a given tool, but instead a way of
 thinking about using visualization tools.  These tools are chosen because of
 what they represent, not because they are the only paths to success.
 
----
-
-## Tools We Will Use
-
- * [Jupyter](https://jupyter.org/)
- * [GitHub](https://github.com/)
- * [Starboard](https://starboard.gg/) 
- * [Jekyll](https://jekyllrb.com/)
-
-
-notes:
-These tools represent many different ways to explore and visualize data.  We'll
-use a mix of local installations & web-services.
 
 ---
 
@@ -658,12 +626,10 @@ use a mix of local installations & web-services.
 We will be sharing a slack channel with the in-person class, so feel free to
 converse with them as well!
 
- * Team channel at `https://is445fall2022.slack.com`
+ * Team channel at `https://is445-spring2023.slack.com`
    * `#general` : General announcements, place to ask questions
-   * `#bcg-bcu-inperson` : in-person section-specific questions 
-   * `#oag-oau-online` : online section-specific questions 
    * `#random` : see a cool viz you want to share?  This is the place!
-   * `#introduces` : where you want to "say hi" for Homework #1
+   * `#introductions` : where you want to "say hi" for Homework #1
 
 ---
 
@@ -693,7 +659,7 @@ feedback.  However, please do behave in a professional fashion.
    forum instead.*
  * Conduct will be held to same standards as any educational venue.
  
-Slack turn-around time ~24 hours or less (general/section channel), email ~3 days or less
+Slack turn-around time ~24 business hours or less (general/section channel), email ~3 business days or less
 
 Questions about grades should *always* be over email.
 
@@ -718,10 +684,9 @@ personal messages on slack will be treated as email and we'll get back to you wi
 
 <!-- JPN: check all these links -->
 
- * Course repo is at [UIUC-iSchool-DataViz/is445_bcubcg_fall2022/](https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/) 
- * Automatically built to [uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/)  
+ * Course repo is at [UIUC-iSchool-DataViz/is445_oauoag_spring2023/](https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023/) 
+ * Automatically built to [uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/](https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/)  
  * Copy the notebooks to your directory before using them.
- * Supplemental materials can be found at [UIUC-iSchool-DataViz/support-files](https://github.com/UIUC-iSchool-DataViz/support-files)
 
 notes:
 All the materials for this course will be stored in github, and are available
