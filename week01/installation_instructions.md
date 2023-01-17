@@ -4,6 +4,10 @@ layout: assignment
 description: Install necessary packages for this class
 ---
 
+## Please read these instructions carefully!
+
+Many common errors/bugs are listed here along with strategies for how to fix them.
+
 ## 1. Install Anaconda with Python 3
 
 <!-- JPN: check the individual page install -->
@@ -94,3 +98,4 @@ A movie of this process is shown below from a slightly older installation proces
 A few things of note:
  * When the little `*` is showing in the `In[]` part to the left of each cell this means your computer is thinking.  Its best to wait until its done with one cell before moving onto the next one.
  * If nothing shows up for the `bqplot` plot or the `ipyvolume` plot there are a few tips listed -- try refreshing your browser, try installing the extensions (uncomment those lines and run the cell and try running the plotting cells again), or completely close and completely re-open your jupyter notebook as discussed in section 3.1
+ * If you *still* get an error for `ipyvolume` send us (posted in the \#general Slack channel for fastest reply) a screenshot of your Terminal/Anaconda prompt along with a note that your edition of `ipyvolume` is not running correctly.
