@@ -157,7 +157,7 @@ Here is a ~5 minute movie of how this process looks on my Mac (it may take longe
 <h3 id="21-conda-environment">2.1 Conda environment</h3>
 <ol>
   <li>On a Mac search for the “Terminal” prompt/on Windows search for the “Anaconda Prompt” (NOT the navigator)</li>
-  <li>In the terminal window type: <code class="language-plaintext highlighter-rouge">conda create -n DataViz python=3.7 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyvolume ipyleaflet vega_datasets nltk wordcloud -c conda-forge</code></li>
+  <li>In the terminal window type: <code class="language-plaintext highlighter-rouge">conda create -n DataViz python=3.7 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyleaflet vega_datasets nltk wordcloud -c conda-forge</code></li>
 </ol>
 
 <h4 id="do-not-try-to-install-these-packages-one-at-a-time">DO NOT TRY TO INSTALL THESE PACKAGES ONE AT A TIME</h4>
@@ -186,7 +186,7 @@ Here is a ~5 minute movie of how this process looks on my Mac (it may take longe
 
 <h4 id="tips-and-tricks">Tips and Tricks</h4>
 
-<p>If the install fails or there are package conflicts you can try with Python 3.8 or Python 3.9.  For example to re-install with Python 3.8 the command becomes: <code class="language-plaintext highlighter-rouge">conda create -n DataViz python=3.8 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyvolume ipyleaflet vega_datasets nltk wordcloud -c conda-forge</code></p>
+<p>If the install fails or there are package conflicts you can try with Python 3.8 or Python 3.9.  For example to re-install with Python 3.8 the command becomes: <code class="language-plaintext highlighter-rouge">conda create -n DataViz python=3.8 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyleaflet vega_datasets nltk wordcloud -c conda-forge</code></p>
 
 <h2 id="3-run--test-your-environment">3. Run &amp; Test your environment</h2>
 
@@ -216,9 +216,10 @@ Here is a ~5 minute movie of how this process looks on my Mac (it may take longe
 <p>A few things of note:</p>
 <ul>
   <li>When the little <code class="language-plaintext highlighter-rouge">*</code> is showing in the <code class="language-plaintext highlighter-rouge">In[]</code> part to the left of each cell this means your computer is thinking.  Its best to wait until its done with one cell before moving onto the next one.</li>
-  <li>If nothing shows up for the <code class="language-plaintext highlighter-rouge">bqplot</code> plot or the <code class="language-plaintext highlighter-rouge">ipyvolume</code> plot there are a few tips listed – try refreshing your browser, try installing the extensions (uncomment those lines and run the cell and try running the plotting cells again), or completely close and completely re-open your jupyter notebook as discussed in section 3.1</li>
-  <li>If you <em>still</em> get an error for <code class="language-plaintext highlighter-rouge">ipyvolume</code> send us (posted in the #general Slack channel for fastest reply) a screenshot of your Terminal/Anaconda prompt along with a note that your edition of <code class="language-plaintext highlighter-rouge">ipyvolume</code> is not running correctly.</li>
+  <li>If nothing shows up for the <code class="language-plaintext highlighter-rouge">bqplot</code> plot <del>or the <code class="language-plaintext highlighter-rouge">ipyvolume</code></del> plot there are a few tips listed – try refreshing your browser, try installing the extensions (uncomment those lines and run the cell and try running the plotting cells again), or completely close and completely re-open your jupyter notebook as discussed in section 3.1</li>
 </ul>
+
+<!-- * If you *still* get an error for `ipyvolume` send us (posted in the \#general Slack channel for fastest reply) a screenshot of your Terminal/Anaconda prompt along with a note that your edition of `ipyvolume` is not running correctly. -->
 
 
                     </div>

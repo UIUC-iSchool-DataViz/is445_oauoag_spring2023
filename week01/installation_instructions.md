@@ -42,7 +42,7 @@ Here is a ~5 minute movie of how this process looks on my Mac (it may take longe
 <!-- JPN: recreate this enviroment -->
 ### 2.1 Conda environment
  1. On a Mac search for the "Terminal" prompt/on Windows search for the "Anaconda Prompt" (NOT the navigator)
- 2. In the terminal window type: `conda create -n DataViz python=3.7 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyvolume ipyleaflet vega_datasets nltk wordcloud -c conda-forge`
+ 2. In the terminal window type: `conda create -n DataViz python=3.7 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyleaflet vega_datasets nltk wordcloud -c conda-forge`
  
 #### DO NOT TRY TO INSTALL THESE PACKAGES ONE AT A TIME
 
@@ -70,7 +70,7 @@ A successful installation is indicated by seeing the following:
  
 #### Tips and Tricks
 
-If the install fails or there are package conflicts you can try with Python 3.8 or Python 3.9.  For example to re-install with Python 3.8 the command becomes: `conda create -n DataViz python=3.8 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyvolume ipyleaflet vega_datasets nltk wordcloud -c conda-forge`
+If the install fails or there are package conflicts you can try with Python 3.8 or Python 3.9.  For example to re-install with Python 3.8 the command becomes: `conda create -n DataViz python=3.8 seaborn plotly pygraphviz pandas matplotlib=3.2.2 bqplot=0.12.30 numpy regex networkx openssl altair yt geopandas gdal rasterio shapely pyproj rtree fiona pillow palettable h5py contextily webcolors openpyxl ipyleaflet vega_datasets nltk wordcloud -c conda-forge`
 
 
 
@@ -97,5 +97,7 @@ A movie of this process is shown below from a slightly older installation proces
 
 A few things of note:
  * When the little `*` is showing in the `In[]` part to the left of each cell this means your computer is thinking.  Its best to wait until its done with one cell before moving onto the next one.
- * If nothing shows up for the `bqplot` plot or the `ipyvolume` plot there are a few tips listed -- try refreshing your browser, try installing the extensions (uncomment those lines and run the cell and try running the plotting cells again), or completely close and completely re-open your jupyter notebook as discussed in section 3.1
- * If you *still* get an error for `ipyvolume` send us (posted in the \#general Slack channel for fastest reply) a screenshot of your Terminal/Anaconda prompt along with a note that your edition of `ipyvolume` is not running correctly.
+ * If nothing shows up for the `bqplot` plot ~~or the `ipyvolume`~~ plot there are a few tips listed -- try refreshing your browser, try installing the extensions (uncomment those lines and run the cell and try running the plotting cells again), or completely close and completely re-open your jupyter notebook as discussed in section 3.1
+
+
+<!-- * If you *still* get an error for `ipyvolume` send us (posted in the \#general Slack channel for fastest reply) a screenshot of your Terminal/Anaconda prompt along with a note that your edition of `ipyvolume` is not running correctly. -->
