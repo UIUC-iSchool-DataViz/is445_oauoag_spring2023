@@ -2,37 +2,42 @@ instructor:
   name: Jill Naiman
   email: jnaiman@illinois.edu
   office: Online
-  office_hours: Mon, Wed 10am-11am
+  office_hours: Mon 3-4pm, Wed 12:45-1:45pm
 tas:
-  -
-    name: Qiuyan Guo
-    email: qqguo2@illinois.edu
-    office: Online
-    office_hours: Tues, Thurs, Fri 8:30am-10:30am
   -
     name: Leon Hounnou
     email: hounnou2@illinois.edu
     office: Online
-    office_hours: Mon, Fri 4-6pm
+    office_hours: TBD
+  -
+    name: Guangchun Zheng
+    email: gzheng6@illinois.edu
+    office: Online
+    office_hours: TBD
+  -
+    name: Xiujia Yang
+    email: xiujiay2@illinois.edu
+    office: Online
+    office_hours: TBD
 
 course:
   name: Data Visualization
   number: IS445
-  semester: Fall 2022
-  section: BCU-BCG
-  location: 325 David Kinley Hall
-  time: Tuesdays, 12:30-3:20PM
+  semester: Spring 2023
+  section: OAU-OAG
+  location: Online
+  time: Tuesdays, 4-5:55PM
   credit_hours: 4
 urls:
   -
     name: Slack
-    url: is445fall2022.slack.com
+    url: is445-spring2023.slack.com
   - 
     name: Canvas
-    url: https://canvas.illinois.edu/courses/21951
+    url: https://canvas.illinois.edu/courses/32263
   -
     name: Course Materials
-    url: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/
+    url: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/
   -
     name: Github
-    url: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022
+    url: https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023
