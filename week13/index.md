@@ -1,51 +1,48 @@
 ---
 layout: week
 visible: true
-icon: undraw_monitor_iqpq.svg
+icon: undraw_playing_fetch_cm19.svg
 notitle: true
 examples:
-  - filename: In Class Jekyll
+  - filename: In Class Jekyll Files
     type: iodide
-    title: In class Jekyll resources, Week 13
-    description: Updating storage of Jekyll files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week13/inClass
-  - filename: Prep repo
+    title: In class Jekyll materials, Week 11
+    description: Updating storage of Idyll files in class
+    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week11/inClass
+  - filename: Prep Jekyll Files
     type: iodide
-    title: Prep Jekyll, Week 13
-    description: Prep Jekyll file and components
-    link: https://github.com/jnaiman/online_cv_public
-  - filename: inClass_week13.ipynb
+    title: Prep Jekyll materials, Week 11
+    description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
+    link: https://github.com/jnaiman/online_cv_public/blob/main/_example_projects/3_vega_plots_four_ways.md
+  - filename: inClass_week11.ipynb
     type: ipynb
-    title: In class jupyter notebook, Week 13
-    description: Placeholder for in class coding
-  - filename: prep_notebook_week13_part1.ipynb
+    title: In Class Notebook, Week 11
+    description: In class notebook
+  - filename: prep_notebook_week11.ipynb
     type: ipynb
-    title: Prep Notebook, Week 13
+    title: Prep Notebook, Week 11
     description: Prep notebook for this week
 data:
-  - filename: corgs_per_country_over_time_columns_2020.csv
+  - filename: mobility.csv
     type: dataLink
-    title: Corgis per country over time 
-    description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/corgs_per_country_over_time_columns_2020.csv
-  - filename: corgiData_countries_subset_2020.json
-    type: dataLink
-    title: Subset of full Corgi database 
-    description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/corgiData_countries_subset_2020.json
+    title: The Mobility dataset (online)
+    description: A dataset of USA "mobility" which (I <b>think</b> comes from a <a href="https://www.census.gov/library/working-papers/2018/adrm/CES-WP-18-40R.html">a large census study from 1989-2015</a>) and is collected in several places <a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/mobility.csv">including right here</a>.  Here "mobility" is refering to how easy it is for a person to move up in economic status (<a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/hw-01.pdf">more info can be found here</a>) based on factors like parental income, location, race, etc.
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/mobility.csv
 ---
 
-# A few more Jekyll+Altair things, Starting SciViz
+# More with Jekyll+Altair, Publishing Viz
 
-A few more things in Jekyll+Altair.
+We talk a little bit about publishing and carry on with Jekyll and add in some Altair in Python.
+
+## Extra files
+
+Full corgi dataset available [here](corg/corgiData_countries_full_2020.json).
 
 
 
 ## Optional reading list
 
-1. <a href="https://altair-viz.github.io/gallery/index.html">Altair Docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/data.html#including-index-data">Including Indexes</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/06-Selections.html">Interactivity & Selections</a>, <a href="https://altair-viz.github.io/gallery/multiline_tooltip.html#multi-line-tooltip">Multi-line tooltips</a>, <a href="https://altair-viz.github.io/user_guide/interactions.html#bindings-selections-conditions-making-charts-interactive">Interactive Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html#filter-transform">Filter Transformations</a>, <a href="https://altair-viz.github.io/altair-tutorial/notebooks/09-Geographic-plots.html">Geographic plots</a>, and <a href="https://altair-viz.github.io/user_guide/transform/fold.html">Fold Transformations</a> 
-1. <a href="https://books.google.com/books?hl=en&lr=&id=jUw7DwAAQBAJ&oi=fnd&pg=PA91&dq=scientific+visualization+misinformation&ots=Cv0QmoCdM2&sig=7xycURu8Um_C9VtHqf-aWg4qaEo#v=onepage&q=scientific%20visualization%20misinformation&f=false">Chapter 5: Dimensions of Visual Misinformation in the Emerging Media Landscape in the book "Misinformation and Mass Audiences"</a>
-
-Also, here is a slightly more in-depth explanation of path/ray tracing which we'll talk about more in Week 14:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frLwRLS_ZR0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a> 
+ 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
+ 
+ 

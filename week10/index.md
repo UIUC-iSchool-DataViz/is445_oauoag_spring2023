@@ -1,40 +1,35 @@
 ---
 layout: week
 visible: true
-icon: undraw_Books_l33t.svg
+icon: undraw_programmer_imem.svg
 notitle: true
 examples:
-  - filename: inClass_week10_inperson_fall2022
+  - filename: inClass_week09_inperson_fall2022
     type: iodide
-    title: In Class Starboard Notebook, Week 10
+    title: In Class Notebook, Week 9
     description: In Class Starboard Notebook
-    link: https://starboard.gg/nb/nDgjr30
-  - filename: prep_notebook_week10_fall2022
+    link: https://starboard.gg/nb/n8qFuS9
+  - filename: prep_notebook_week09_fall2022
     type: iodide
-    title: Prep Starboard Notebook, Week 10
+    title: Prep Starboard Notebook, Week 9
     description: Prep Starboard Notebook
-    link: https://starboard.gg/nb/nuXwr0l
-  - filename: jekyll tour notes.pdf
-    type: iodide
-    title: Jekyll Tour Notes
-    description: Prep Starboard Notebook
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week10/pdfs/jekyll%20tour%20notes.pdf
-  - filename: prep-repo
-    type: iodide
-    title: Prep online_cv file, Week 10
-    description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
-    link: https://github.com/jnaiman/online_cv_public
-  - filename: In Class Jekyll page
-    type: iodide
-    title: In class Jekyll resources, Week 10
-    description: Updating storage of Jekyll files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week10/inClass
+    link: https://starboard.gg/nb/n9nb6N8
   - filename: prep_notebook_week11
     type: iodidePast
     title: Previous class notebook
     description: Prep Iodide Notebook, Spring 2020
     link: https://alpha.iodide.io/notebooks/4399/
+  - filename: prep_notebook_week10_fall2021
+    type: iodidePast
+    title: Previous class notebook
+    description: Prep Starboard Notebook, Fall 2021
+    link: https://starboard.gg/nb/nXvyanN
 data:
+  - filename: GDP.csv
+    type: dataLink
+    title: The GDP dataset (online)
+    description: GDP dataset from FRED (stored online for easy linking in Starboard)
+    link:  https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/GDP.csv
   - filename: mobility.csv
     type: dataLink
     title: The Mobility dataset (online)
@@ -42,18 +37,21 @@ data:
     link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/mobility.csv
 ---
 
-# Finish up with Starboard, Intro to Jekyll
-
-Today we'll cover a brief intro of [Jekyll](https://jekyllrb.com/) and web development in general.
-
- 
-## Extra files
+# Viz Audience; More Starboard, Javascript & Vega-lite (and maybe Jekyll)
 
 
-Full corgi dataset available [here](corg/corgiData_countries_full_2020.json).
+## Installation instructions: Jekyll
 
+We'll be using Jekyll to do some web-dev and we need to install some other software to do this (like Ruby). 
+
+#### [Please follow these installation instructions to install the necessary packages](installation_instructions_week11).
 
 
 ## Optional reading list
 
- 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a>
+ 1. <a href="https://medium.com/multiple-views-visualization-research-explained/same-data-multiple-perspectives-curse-of-knowledge-in-visual-data-communication-d827c381f936">Same Data, Multiple Perspectives</a> 
+ 2. <a href="https://serialmentor.com/dataviz/telling-a-story.html">FDV, Ch. 29: Telling a story and making a point</a> 
+ 3. <a href="https://alpha.iodide.io/">Iodide Docs</a> 
+ 4. <a href="https://vega.github.io/vega-lite/docs/">vega-lite docs</a> - in particular: <a href="https://vega.github.io/vega-lite/docs/transform.html">Vega-lite transformations</a> & <a href="https://vega.github.io/vega-lite/docs/selection.html">Vega-lite selections</a> 
+ 5. <a href="https://jekyllrb.com/showcase/"> Jekyll Examples</a>
+

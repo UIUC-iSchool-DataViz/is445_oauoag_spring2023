@@ -1,27 +1,39 @@
 ---
 layout: week
 visible: true
-icon: undraw_good_doggy_4wfq.svg
+icon: undraw_Books_l33t.svg
 notitle: true
 examples:
-  - filename: In Class Jekyll Files
+  - filename: inClass_week10_inperson_fall2022
     type: iodide
-    title: In class Jekyll materials, Week 11
-    description: Updating storage of Idyll files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week11/inClass
-  - filename: Prep Jekyll Files
+    title: In Class Starboard Notebook, Week 10
+    description: In Class Starboard Notebook
+    link: https://starboard.gg/nb/nDgjr30
+  - filename: prep_notebook_week10_fall2022
     type: iodide
-    title: Prep Jekyll materials, Week 11
+    title: Prep Starboard Notebook, Week 10
+    description: Prep Starboard Notebook
+    link: https://starboard.gg/nb/nuXwr0l
+  - filename: jekyll tour notes.pdf
+    type: iodide
+    title: Jekyll Tour Notes
+    description: Prep Starboard Notebook
+    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/blob/main/week10/pdfs/jekyll%20tour%20notes.pdf
+  - filename: prep-repo
+    type: iodide
+    title: Prep online_cv file, Week 10
     description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
-    link: https://github.com/jnaiman/online_cv_public/blob/main/_example_projects/3_vega_plots_four_ways.md
-  - filename: inClass_week11.ipynb
-    type: ipynb
-    title: In Class Notebook, Week 11
-    description: In class notebook
-  - filename: prep_notebook_week11.ipynb
-    type: ipynb
-    title: Prep Notebook, Week 11
-    description: Prep notebook for this week
+    link: https://github.com/jnaiman/online_cv_public
+  - filename: In Class Jekyll page
+    type: iodide
+    title: In class Jekyll resources, Week 10
+    description: Updating storage of Jekyll files in class
+    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week10/inClass
+  - filename: prep_notebook_week11
+    type: iodidePast
+    title: Previous class notebook
+    description: Prep Iodide Notebook, Spring 2020
+    link: https://alpha.iodide.io/notebooks/4399/
 data:
   - filename: mobility.csv
     type: dataLink
@@ -30,11 +42,13 @@ data:
     link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/mobility.csv
 ---
 
-# More with Jekyll+Altair, Publishing Viz
+# Finish up with Starboard, Intro to Jekyll
 
-We talk a little bit about publishing and carry on with Jekyll and add in some Altair in Python.
+Today we'll cover a brief intro of [Jekyll](https://jekyllrb.com/) and web development in general.
 
+ 
 ## Extra files
+
 
 Full corgi dataset available [here](corg/corgiData_countries_full_2020.json).
 
@@ -42,7 +56,4 @@ Full corgi dataset available [here](corg/corgiData_countries_full_2020.json).
 
 ## Optional reading list
 
- 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a> 
- 1. <a href="https://altair-viz.github.io/gallery/index.html">Altair docs</a> - in particular <a href="https://altair-viz.github.io/user_guide/encoding.html#encoding-data-types">Encoding Data Types</a>, <a href="https://altair-viz.github.io/user_guide/internals.html#converting-vega-lite-to-altair">Vegalite-Altair conversions</a>, <a href="https://altair-viz.github.io/user_guide/transform/bin.html#bin-transforms">Binning</a>, <a href="https://altair-viz.github.io/user_guide/transform/filter.html">Filter transforms</a> and <a href="https://altair-viz.github.io/gallery/interactive_cross_highlight.html#interactive-chart-with-cross-highlight">interactive examples</a>
- 
- 
+ 1. <a href="https://jekyllrb.com/tutorials/home/">Jekyll Tutorials (hit "Next" to see them at bottom)</a>
