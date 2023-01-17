@@ -1,8 +1,8 @@
 ---
-title: Lecture 11 - Publishing & Validation
+title: Lecture 12 - More on Jekyll
 layout: lecture
 description: >-
- More about publishing and validation, and Jekyll+vega-lite+Altair
+ More on Jekyll+vega-lite+Altair
 date: 2022-11-01
 ---
 

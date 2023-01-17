@@ -6,21 +6,21 @@ notitle: true
 examples:
   - filename: In Class Jekyll Files
     type: iodide
-    title: In class Jekyll materials, Week 11
+    title: In class Jekyll materials, Week 12
     description: Updating storage of Idyll files in class
     link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week11/inClass
   - filename: Prep Jekyll Files
     type: iodide
-    title: Prep Jekyll materials, Week 11
+    title: Prep Jekyll materials, Week 12
     description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
     link: https://github.com/jnaiman/online_cv_public/blob/main/_example_projects/3_vega_plots_four_ways.md
   - filename: inClass_week11.ipynb
     type: ipynb
-    title: In Class Notebook, Week 11
+    title: In Class Notebook, Week 12
     description: In class notebook
   - filename: prep_notebook_week11.ipynb
     type: ipynb
-    title: Prep Notebook, Week 11
+    title: Prep Notebook, Week 12
     description: Prep notebook for this week
 data:
   - filename: mobility.csv
