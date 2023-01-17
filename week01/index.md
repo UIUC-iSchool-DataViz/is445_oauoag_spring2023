@@ -21,12 +21,12 @@ data:
     type: dataLink
     title: GDP dataset
     description: GDP dataset from FRED
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/GDP.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/GDP.csv
   - filename: stitch_reworked.png
     type: dataLink
     title: Stitch Image
     description: Three-color image of stitch
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/raw/main/data/stitch_reworked.png
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/stitch_reworked.png
 ---
 
 # Introduction
