@@ -1065,7 +1065,7 @@ Also, you can look at how different each of the sound-bars are on each link and 
 
 ---
 
-## An example: I need a volunteer!
+## An example: Read this next table to yourself!
 
 notes:
 (This part is a bit of a stunt.  Sorry.)
@@ -1089,6 +1089,8 @@ notes:
 notes:
 See what I mean?  It's a stunt.  You're supposed to hear these, or look at the
 numbers, and not have as clear an impression.  It also takes a lot longer.
+
+Can you read the trends here at all?
 
 ---
 
