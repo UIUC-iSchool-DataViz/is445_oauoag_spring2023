@@ -106,23 +106,6 @@ There are 3 pathways (that I can see in this course, could be more!)
        * if you're new to programming, do Javascript parts in class, and build on them for any HW
        * come back to the optional texts/docs after the course is over
 
----
-
-## Participate in Viz Research
-
-#### University of Illinois study on cinematic-style data visualization
-
-You are invited to participate in a research study to help improve the impact of documentary films and 3D data visualization. Watch a 9-minute video clip of data visualizations from “Solar Superstorms”, narrated by Benedict Cumberbatch, and respond to a 10-minute survey about it.
-
-You’ll be entered into a drawing to win one of 5 gift cards for $30.
-
-Join the study using this link:
-
-https://go.illinois.edu/sciviz
-
-This research project is being conducted by the Advanced Visualization Lab at the NCSA in the University of Illinois at Urbana-Champaign. This project is funded by The Brinson Foundation.
-
-
 
 ---
 
@@ -274,7 +257,7 @@ REST = REpresentational State Transfer - web architecture that keeps clients and
 </div>
 
 notes:
-Today in our programming we'll be focusing on these 2 types and comparing our interactions with them
+Today in our programming in class we'll be focusing on these 2 types and comparing our interactions with them (though, we might not get to tabular data until next week)
 
 ---
 
