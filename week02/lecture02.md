@@ -14,48 +14,34 @@ date: 2022-08-31
 
 ---
 
-## COVID-19 Policies
-
-Please see the statement about policies related to COVID-19 at the [top of the Syllabus](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/syllabus.html).
-
-### Masks in class (and buildings) are now *highly recommended* by the Chancellor
-
-### Other ways to access course materials (Zoom recordings posted after class)
-
-### If you feel unwell, stay home!
-
-### If *I* get sick, we have a plan: classes online/recordings
-
-notes:
-couple of reminders -- especially about masks (if its too hard, see Zoom resources!)
-
-**show where zoom recording is saved**
-
----
-
 ## How to get help
 
 Jill P. Naiman - `jnaiman@illinois.edu`
- * Office Hours: Mon, Wed 10am-11am (online)
-
-TA: Qiuyan Guo - `qqguo2@illinois.edu`
- * Office Hours: Tues, Thurs, Fri 8:30am-10:30am (online)
+ * Office Hours: Mon 3-4pm, Wed 12:45-1:45pm (online)
  
 TA: Leon Hounnou - `hounnou2@illinois.edu`
- * Office Hours: Mon, Fri 4-6pm (online)
+ * Office Hours: Thurs, Fri 4-5pm (online)
+
+TA: Guangchun Zheng - `gzheng6@illinois.edu`
+ * Office Hours: Tuesdays 1:30-3:30pm (online)
+
+TA: Xiujia Yang - `xiujiay2@illinois.edu `
+ * Office Hours: Fridays 2-4pm (online)
+
  
 Other: 
  * Slack, email
+ * we added another 2 hours for Xiujia!
 
 ---
 
 ## In summary: where things will be located:
 
- * Canvas: https://canvas.illinois.edu/courses/21951 - where the grades and assignments will be posted
+ * Canvas: https://canvas.illinois.edu/courses/32263 - where the grades and assignments will be posted, pre/after class recordings posted
 
- * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/  - where lecture slides, notebooks, data & general course info will live.
+ * Course webpage: https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/  - where lecture slides, notebooks, data & general course info will live.
 
- * Slack: https://is445fall2022.slack.com - the best place to ask questions in the `#general` channel
+ * Slack: https://is445-spring2023.slack.com - the best place to ask questions in the `#general` channel
 
 ---
 
