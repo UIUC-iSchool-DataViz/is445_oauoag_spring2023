@@ -25,17 +25,17 @@ data:
     type: dataLink
     title: Buildings dataset
     description: Illinois buildings dataset
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/building_inventory.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/building_inventory.csv
   - filename: littleCorgiInHat.png
     type: dataLink
     title: Corgi in Hat
     description: Image of a corgi in a hat
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/raw/main/data/littleCorgiInHat.png
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/littleCorgiInHat.png
   - filename: stitch_reworked.png
     type: dataLink
     title: Stitch Image
     description: Three-color image of stitch
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/raw/main/data/stitch_reworked.png
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/stitch_reworked.png
 ---
 
 # Data Storage and Operations
@@ -44,12 +44,6 @@ This week we discussed how data is stored on disk and in memory, how that
 interacts with our visualization process, and we introduced the notion of a
 palette of operations you can apply to data to visualize it.
 
-<!-- ## Downloads: Data
-
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week02/building_inventory.csv" download>Building Inventory CSV file (building_inventory.csv)</a>
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week01/images/stitch_reworked.png" download>Stitch Image (stitch_reworked.png)</a>
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/littleCorgiInHat.png" download>Another practice image (littleCorgiInHat.png)</a>
- -->
 
 ## References
 
