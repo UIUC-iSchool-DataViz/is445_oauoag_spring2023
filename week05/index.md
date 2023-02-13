@@ -26,22 +26,12 @@ data:
     type: dataLink
     title: The UFO Sitings Dataset (13Mb)
     description: Data about world wide reports of UFO sitings
-    link:  https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/ufo-scrubbed-geocoded-time-standardized-00.csv
+    link:  https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv
   - filename: michigan_lld.flt
     type: dataLink
     title: Michigan Depth Map (86Mb)
     description: Measurments taken from around Lake Michigan (https://www.ngdc.noaa.gov/mgg/greatlakes/michigan.html)
-    link:  https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/raw/main/data/michigan_lld.flt
-  - filename: nations.json
-    type: dataLink
-    title: Wealth of Nations Data - nations.json
-    description: GDP of nations as a function of time
-    link: https://uiuc-ischool-dataviz.github.io/spring2019online/week06/data_and_libs/nations.json
-library:
-  - filename: wealth_of_nations.py
-    type: library
-    title: Wealth of Nations Library (wealth_of_nations.py)
-    description: Python library, save to notebook folder or modify your path if you know how to do that
+    link:  https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/michigan_lld.flt
 ---
 
 # Continuing interactivity with bqplot
@@ -64,7 +54,7 @@ construction.
 
  * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week04/data/ufo-scrubbed-geocoded-time-standardized-00.csv" download>The UFO Sitings Dataset (13Mb) - ufo-scrubbed-geocoded-time-standardized-00.csv</a>
  * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week05/data/michigan_lld.flt" download>Michigan Depth Map (86Mb) - michigan_lld.flt</a>
- * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week06/data_and_libs/nations.json" download>Wealth of Nations Data - nations.json</a>
+ * <a href="https://uiuc-ischool-dataviz.github.io/spring2019online/week06/data_and_libs/nations.json" download>EXTRAS: Wealth of Nations Data - nations.json</a>
  -->
 
 ### Resources

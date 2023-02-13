@@ -3,7 +3,7 @@ title: Lecture 5 - Grammar of Graphics & bqplot
 layout: lecture
 description: >-
  We introduce the basics of bqplot & how it relates to grammar of graphics
-date: 2022-09-21
+date: 2023-02-14
 ---
 
 ## Today's Main Topics
@@ -44,7 +44,7 @@ we'll also cover some concepts of grammar of graphics which is a way that many w
 A few things to consider:
 
  * TurnItIn for homework #5
- * group option for homework #6
+ * group option for homework #6 (See Announcement)
 
 notes:
 go over HW stuff
@@ -54,6 +54,25 @@ point out that HW this week is writing, talk about plagurism!!! be aware: we wil
 mention that next week's (HW#6) is more coding based, and based on several concepts we'll talk about today if you want to get started on it early
 
 there is a group option for HW6 -- go over this
+
+
+---
+
+## On HW for the next two weeks
+
+A few things to consider:
+
+ * TurnItIn for homework #5
+ * group option for homework #6 (See Announcement)
+ 
+<br><br>
+
+## Next week -- "flipped" class for Homework #6 help
+
+notes:
+**change of modality next week!**
+
+this will give us extra time to ask questions
 
 ---
 
@@ -553,6 +572,22 @@ interpreted:
  * What will the _message_ of the visualization be?
  * Does the visualization say something about you and your handling of the data
    or utilization of tools?
+
+---
+
+## On HW for the next two weeks
+
+A few things to consider:
+
+ * TurnItIn for homework #5
+ * group option for homework #6 (See Announcement)
+ 
+<br><br>
+
+## Next week -- "flipped" class for Homework #6 help
+
+notes:
+**repeat for folks that came in late!**
 
 ---
 
