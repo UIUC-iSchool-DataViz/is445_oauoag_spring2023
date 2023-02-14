@@ -69,10 +69,33 @@ A few things to consider:
 
 ## Next week -- "flipped" class for Homework #6 help
 
+In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page).
+
 notes:
 **change of modality next week!**
 
 this will give us extra time to ask questions
+
+---
+
+## On class communications
+
+Requests to move to Canvas Discussions -- a poll!
+
+Main change, emphasis on the "business" part of "24 business hours", possible less responsiveness.
+
+Alternate Slack strategy: enforcing "new question, new thread".
+
+notes:
+some requests to move from Slack to canvas so we're taking a poll
+
+rationial for canvas -- it is what your instructional team uses for their coms, so class gets to "cut the line"
+
+cons - a little hard to organize
+
+so, we can try to use Slack a bit better, i.e. new questions should NOT be in a thread with an old question, make this a new question
+
+OR can move to canvas discussions, with the caveats that "business 24 hours" really does become business hours, less instantatneous feedback
 
 ---
 
@@ -586,8 +609,32 @@ A few things to consider:
 
 ## Next week -- "flipped" class for Homework #6 help
 
+In particular, I am assuming you have watched the [Part 2 Video](https://mediaspace.illinois.edu/media/t/1_k93hei8q) already before joining the class next week (video on Module page).
+
+
 notes:
 **repeat for folks that came in late!**
+
+---
+
+## On class communications
+
+Requests to move to Canvas Discussions -- a poll!
+
+Main change, emphasis on the "business" part of "24 business hours", possible less responsiveness.
+
+Alternate Slack strategy: enforcing "new question, new thread".
+
+notes:
+some requests to move from Slack to canvas so we're taking a poll
+
+rationial for canvas -- it is what your instructional team uses for their coms, so class gets to "cut the line"
+
+cons - a little hard to organize
+
+so, we can try to use Slack a bit better, i.e. new questions should NOT be in a thread with an old question, make this a new question
+
+OR can move to canvas discussions, with the caveats that "business 24 hours" really does become business hours, less instantatneous feedback
 
 ---
 
