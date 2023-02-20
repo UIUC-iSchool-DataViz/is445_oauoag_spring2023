@@ -3,7 +3,23 @@ title: Lecture 6 - Dashboards & Maps
 layout: lecture
 description: >-
  Linking data a bit about maps (if we have time)
-date: 2022-09-27
+date: 2023-02-21
+---
+
+## Reminder: change of modalities today
+
+Topics:
+ * announcments
+ * short lecture about linked data
+ * some brief homework #6 hints
+ * rest of time used to ask questions about Homework #6
+
+---
+
+## Announcement: Results of course discussion on modality
+
+Most folks want to stay on Slack -- let's all try to ask/answer new questions in new threads!
+
 ---
 
 ## Announcement: 
@@ -25,96 +41,6 @@ we also started working with the Grammer of Graphics and used bqplot declaritive
 
 we also talked about different viz engines and you got to look at this in the HW
 
----
-
-## Where we are: Last week
-
-![](../week05/images/logreas_AFrame_2.gif)
-
- * "_Declarative_ programming languages ... are rather like logics in that programs declare statements that are known to be true and relationships between these and other statements."
- * "_Imperative_ programming languages ... state what shall be done in given conditions. They start with an initial state and an explicit set of instructions that describe the process that will unfold."
-
-[Reference](http://cfpm.org/~bruce/logreas/logreas_7.html)
-
-notes:
-as a quick remidner, here are the definitions of declaritive vs. imperative
-
-they are a little nebolous, but for reference we've been using mostly imperative programming for viz
-
-you can think of imperative as a step-by-step reciepe and its usually what you'll run across in programming in Python
-
----
-
-## Where we are: Last week
-
-### bqplot
-
-Our first engine, `bqplot`, is a Jupyter-based interactive plotting system.
-
-It presents two principal interfaces:
-
-1. `pyplot`-like interface, for making the transition from matplotlib easier
-```#python
-from bqplot import pyplot as bplt
-bplt.figure(title='A Figure')
-bplt.scatter(x_data, y_data)
-bplt.show()
-```
-1. An object-oriented API for constructing interactive visualizations
-```#python
-scatter_chart = Scatter(x=x_data, y=y_data, scales={'x': x_sc, 'y': y_sc})
-fig = Figure(marks=[scatter_chart], title='A Figure', axes=[x_ax, y_ax])
-display(fig)
-```
-
-notes:
-as covered last week (and the week before) bqplot is a new interface we are going to be using to make interactive plots
-
-there *is* a matplotlib-like interface, but we will be using bqplot declaritively to get us ready to use vega-lite later on in the course
-
----
-
-## Where we are: Last week
-
-### bqplot introduction
-
-Our first example will be a simple lineplot.
-```#python
-import bqplot
-import numpy as np
-
-# 1. data
-x = np.arange(100)
-y = np.random.random(100) + 5
-# 2. scales
-x_sc = bqplot.LinearScale()
-y_sc = bqplot.LinearScale()
-# 3. marks
-lines = bqplot.Lines(x = x, y = y, scales = {'x': x_sc, 'y': y_sc})
-# 4. sometimes interactive elements are defined around here
-# 5. axis
-ax_x = bqplot.Axis(scale = x_sc, label = 'X value')
-ax_y = bqplot.Axis(scale = y_sc, label = 'Y value', orientation = 'vertical')
-
-# finally: figure
-fig = bqplot.Figure(marks = [lines], axes = [ax_x, ax_y])
-fig
-```
-
-notes:
-last week we covered this basic outline of how to make a plot in bqplot
-
-first starting with defining the data (there can be data cleaning here as well)
-
-then moving onto the scales -- are they linear or log? what about any color scales?
-
-then we define the "marks" -- do you want a line plot or a bar chart? or a scatter plot?
-
-around step #4 is where interactivity will be included with something along the lines of a .observe function
-
-then we define axis -- like x/y axis but also color axis (colorbars)
-
-finally, we put everything together as a figure and display that figure
 
 ---
 
@@ -130,12 +56,11 @@ if we have time we'll also start talking about map projections this week (but we
 
 ---
 
-## Today's Main Topics
+## Today's Main Lecture Topics
 
  1. Interactivity and linked views
  1. More dashboarding
  1. Dashboards with maps
- 1. Map projections (if we have time)
 
 ---
 
@@ -394,7 +319,7 @@ What are methods of showing "linked" and "brushed" data if you have:
 notes: 
 hint -- we already discussed index based last class with the grid heatmap and the histogram plots
 
-and we've done masking before with the filtering of images
+and we've done masking before with the filtering of images AND there are more hints in the recording you all watched before this class
 
 ---
 
@@ -412,12 +337,12 @@ Build a dashboard for the license data.
  * Left component:
    * Grid heat map
    * Columns are License Type
-   * Rows are the License Status 
+   * Rows are the County 
    * Values are mean of the days between Effective Date and Expiration Date
  * Right component:
    * is a barplot/histogram
    * x is the year
-   * y is median number of days between Effective Date and Expiration Date that year
+   * y is median number of days between Original Issue Date and Expiration Date that year
  * These two should be linked so that you can select cells and that will update the right plot.
 	
 notes:
@@ -425,16 +350,16 @@ Hint for those in class -- check out pivot tables with pandas, it might get you 
 
 ---
 
-## Today's Python Programming:
+## Pre-class Video's Python Programming:
 
-Starting with these ideas, we'll progressively enhance.
+Starting with these ideas, we progressively enhanced using the following steps:
 
  * Create heat maps of the sightings in the UFO dataset
  * Select based on location (do not use map marks yet)
  * Manually create "bins" for aggregation (**this is "pre-done" for us**)
  * Use different scales for dates, times, locations
 
-We'll use these to build up a _dashboard_ for our data.
+And build up a _dashboard_ for our data.
 
 notes:
 in the prep notebook, it is shown how the histogramming is done, however for timing purposes we'll just use a function
@@ -503,6 +428,6 @@ if we use dashboarding software, it can often obfuscate a lot of of these aspect
 
 ## Dashboards: Building our own in Python
 
-# TOPIC 3: To Python for an intro to map dashboards!
+</br></br>
 
-notes: today we will get more experience building up these sorts of interfaces ourselves!
+## TOPIC 3: To Python for Homework #6 hints and then rest of class will be spend on homework!

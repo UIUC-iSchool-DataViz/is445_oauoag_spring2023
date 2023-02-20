@@ -10,12 +10,8 @@ examples:
     description: In class notebook
   - filename: prep_notebook_week06_part1.ipynb
     type: ipynb
-    title: Prep Notebook, Week 6, Part 1
-    description: Prep notebook for this week, Part 1
-  - filename: prep_notebook_week06_part2.ipynb
-    type: ipynb
-    title: Prep Notebook, Week 6, Part 2
-    description: Prep notebook for this week, Part 2
+    title: Prep Notebook, Week 6
+    description: Prep notebook for this week
   - filename: spring2019_prep_notebook_week06_part1.ipynb
     type: ipynb
     title: spring2019_prep_notebook_week06_part1.ipynb
@@ -30,21 +26,8 @@ data:
     type: dataLink
     title: The UFO Sitings Dataset (13Mb)
     description: Data about world wide reports of UFO sitings
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/ufo-scrubbed-geocoded-time-standardized-00.csv
-  - filename: market_map_data.csv
-    type: dataLink
-    title: Surgery Charges Dataset (37Mb)
-    description: Surgery charges in different states
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/market_map_data.csv
-library:
-  - filename: states_utils.py
-    type: library
-    title: State export utilities (states_utils.py)
-    description: Python library, save to notebook folder or modify your path if you know how to do that
-  - filename: us_state_abbrev.py
-    type: library
-    title: US State abbreviations (us_state_abbrev.py)
-    description: Python library, save to notebook folder or modify your path if you know how to do that
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv
+
 ---
 
 # More with dashboards & Map Viz
