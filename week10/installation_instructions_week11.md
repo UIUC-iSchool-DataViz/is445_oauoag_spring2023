@@ -125,7 +125,7 @@ This screenshot serves as your submission for this portion of the homework assig
 
 `git commit -m "upload template"` (commit the changes)
 
-`git push`
+`git push` (push all changes from local to remote site)
 
 **Step 12 -- Second part of submission:** Wait for your site to build (you can check the Environments tab or just keep refreshing your <GITHUB_USERNAME>.github.io webpage).  Once that is loaded and looks like your locally hosted version, submit your github.io URL as the second part of your submission.  You can do this in a document or as a comment to your submission (mine would be something like: "updated URL: jnaiman.github.io").
 
