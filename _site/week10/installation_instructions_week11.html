@@ -186,35 +186,63 @@ echo "chruby ruby-3.1.2" &gt;&gt; ~/.bash_profile # run 'chruby' to see actual v
 
 <p>For Mac, you should have git already installed (but you can install it <a href="https://git-scm.com/download/mac">here</a> just in case).</p>
 
-<p><strong>Step 1:</strong> Clone this repository using <code class="language-plaintext highlighter-rouge">git clone https://github.com/jnaiman/online_cv_public.git</code> in a Terminal or Anaconda Prompt</p>
+<p><strong>Step 1:</strong> Download the online-resume template Jekyll page by <a href="https://github.com/jnaiman/online_cv_public/archive/master.tar.gz">clicking on this link here</a>.  This should download a file called <code class="language-plaintext highlighter-rouge">master.tar.gz</code>.</p>
 
-<p><img src="images/gitclone.png" width="900px" alt="clone online cv with git clone command" /></p>
+<p><strong>Step 2:</strong> Unpack this gzip-ed tar ball in the “usual way” for your machine.</p>
 
-<p>You can find this repository URL by navigating to the <a href="https://github.com/jnaiman/online_cv_public">online template GitHub repositor</a> and copying the URL under the green “Code” button/dropdown.</p>
+<p>For example, on a Mac, if you are in the command line you could run <code class="language-plaintext highlighter-rouge">tar -xvf master.tar.gz</code></p>
 
-<p><strong>Step 2:</strong> change to this directory with <code class="language-plaintext highlighter-rouge">cd online_cv_public</code> in the Terminal/Anaconda Prompt</p>
+<p>You should now see a directory called <code class="language-plaintext highlighter-rouge">online_cv_public-main</code> which contains the following files:</p>
 
-<p><img src="images/cdonlinecv.png" width="600px" alt="cd into online cv directory" /></p>
+<p><img src="images/listdownload.png" width="800px" alt="list of downloaded files from online resume template" /></p>
 
-<p><strong>Step 3:</strong> build the Jekyll page with <code class="language-plaintext highlighter-rouge">bundle install</code> in the Terminal/Anaconda Prompt</p>
+<p><strong>Step 3:</strong> If you have not downloaded (i.e. “cloned”) this repository to your local machine, now is the time to do this.  The command you will use is:</p>
 
-<p><img src="images/bundleinstall.png" width="700px" alt="install jekyll page with bundle install" /></p>
+<p><code class="language-plaintext highlighter-rouge">git clone https://github.com/&lt;GITHUB_USERNAME&gt;/&lt;GITHUB_USERNAME&gt;.github.io.git</code></p>
+
+<p><strong>Step 4:</strong> Clear out your local copy of your github.io repository and prepare it to transfer these files.</p>
+
+<p><em>NOTE:</em> if you uploaded an index.html file as part of Homework #5, make sure you delete this – <em>there should be nothing in your local copy of your repository at this stage</em> (accept for any “hidden files” that start with a “.”, which will probably not be visible to you unless you know how to look for them).</p>
+
+<p><strong>Step 5:</strong> Copy the contents from the unpacked <code class="language-plaintext highlighter-rouge">online_cv_public-main</code> directory to your cloned github.io repository.</p>
+
+<p>Your github.io directory should now look like:</p>
+
+<p><img src="images/seeInitialgp.png" width="800px" alt="list of downloaded files from online resume template" /></p>
+
+<p><strong>Step 6:</strong> change to your github.io directory with <code class="language-plaintext highlighter-rouge">cd &lt;PATH_TO_LOCAL_REPO&gt;/&lt;GITHUB_USERNAME&gt;.github.io.git</code> in the Terminal/Anaconda Prompt</p>
+
+<p><strong>Step 7:</strong> In this directory, build the Jekyll page with <code class="language-plaintext highlighter-rouge">bundle install</code> in the Terminal/Anaconda Prompt</p>
+
+<p><img src="images/bundleinstall2.png" width="700px" alt="install jekyll page with bundle install" /></p>
 
 <p>You should see this at the end of the bundle command.</p>
 
-<p><strong>Step 4:</strong> Serve the site locally with <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></p>
+<p><strong>Step 8:</strong> Serve the site locally with <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></p>
 
-<p><img src="images/servesitelocal.png" width="900px" alt="cd into online cv directory" /></p>
+<p><img src="images/websitepopup2.png" width="900px" alt="cd into online cv directory" /></p>
 
-<p><strong>Step 5:</strong> Navigate to the URL listed in a Chrome or Firefox browser – in the above image this is <code class="language-plaintext highlighter-rouge">http://127.0.0.1:4008/online_cv_public/</code>.  You should see teh following page pop up:</p>
+<p><strong>Step 9:</strong> Navigate to the URL listed in a Chrome or Firefox browser – in the above image this is <code class="language-plaintext highlighter-rouge">http://127.0.0.1:4008/</code>.  You should see the following page pop up:</p>
 
-<p><img src="/is445_oauoag_spring2023/week10/images/websitepopup.png" alt="picture of running local webpage" /></p>
+<p><img src="images/servesitelocal2.png" alt="picture of running local webpage" /></p>
 
-<p><strong>Step 6:</strong> Take a screenshot of a side-by-side of your running Terminal/Anaconda Prompt and the served webpage like so:</p>
+<p><strong>Step 10 – First part of submission:</strong> Take a screenshot of a side-by-side of your running Terminal/Anaconda Prompt and the served webpage like so:</p>
 
-<p><img src="/is445_oauoag_spring2023/week10/images/submissionscreenshot.png" alt="submission" /></p>
+<p><img src="images/submissionscreenshot1.png" alt="submission" /></p>
 
 <p>This screenshot serves as your submission for this portion of the homework assignment.</p>
+
+<p><strong>Step 11:</strong> Push your local changes to your remote hosting page with git commands:</p>
+
+<p><code class="language-plaintext highlighter-rouge">git status</code> (check the additions to be made)</p>
+
+<p><code class="language-plaintext highlighter-rouge">git add -A</code> (add all changes)</p>
+
+<p><code class="language-plaintext highlighter-rouge">git commit -m "upload template"</code> (commit the changes)</p>
+
+<p><code class="language-plaintext highlighter-rouge">git push</code></p>
+
+<p><strong>Step 12 – Second part of submission:</strong> Wait for your site to build (you can check the Environments tab or just keep refreshing your <GITHUB_USERNAME>.github.io webpage).  Once that is loaded and looks like your locally hosted version, submit your github.io URL as the second part of your submission.  You can do this in a document or as a comment to your submission (mine would be something like: "updated URL: jnaiman.github.io").</GITHUB_USERNAME></p>
 
 
 
