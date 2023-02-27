@@ -111,6 +111,9 @@ layout: default
 		  {% if example.type == "libraryOtherWeek" %}
                     <a href="{{ "/" | append: example.week | append: "/library/" | append: example.filename | relative_url }}">{{example.title}}</a> 
 		  {% endif %}
+		  {% if example.type == "libraryExternal" %}
+                    <a href="{{example.link }}">{{example.title}}</a>
+		  {% endif %}
                 </p>
                 <p>
                     {{example.description}}

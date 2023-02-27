@@ -11,7 +11,7 @@ examples:
   - filename: prep_notebook_week07.ipynb
     type: ipynb
     title: Prep Notebook, Week 7
-    description: Prep notebook for this week, Part 1
+    description: Prep notebook for this week
   - filename: spring2019_prep_notebook_week07_part1.ipynb
     type: ipynb
     title: spring2019_prep_notebook_week07_part1.ipynb
@@ -26,26 +26,28 @@ data:
     type: dataLink
     title: The UFO Sitings Dataset (13Mb)
     description: Data about world wide reports of UFO sitings
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/ufo-scrubbed-geocoded-time-standardized-00.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/ufo-scrubbed-geocoded-time-standardized-00.csv
   - filename: total_export.csv
     type: dataLink
     title: State export data (8Kb)
     description: Data about exports from each state
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/total_export.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/total_export.csv
   - filename: market_map_data.csv
     type: dataLink
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/market_map_data.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/market_map_data.csv
     title: Surgery Charges Dataset (37Mb)
     description: Surgery charges in different states
 library:
   - filename: states_utils.py
-    type: library
+    type: libraryExternal
     title: State export utilities (states_utils.py)
     description: Python library, save to notebook folder or modify your path if you know how to do that
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/libraries/states_utils.py
   - filename: us_state_abbrev.py
-    type: library
+    type: libraryExternal
     title: US State abbreviations (us_state_abbrev.py)
     description: Python library, save to notebook folder or modify your path if you know how to do that
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/libraries/us_state_abbrev.py
 ---
 
 # Maps, maps and more maps
