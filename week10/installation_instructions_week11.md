@@ -80,44 +80,50 @@ You should now see a directory called `online_cv_public-main` which contains the
 
 <img src="images/listdownload.png" width="800px" alt="list of downloaded files from online resume template">
 
-**Step 3:** If you have not downloaded (i.e. "cloned") this repository to your local machine, now is the time to do this.  The command you will use is:
+## 3. Ready your github.io page for modifications
+
+**Step 1:** If you have not downloaded (i.e. "cloned") this repository to your local machine, now is the time to do this.  The command you will use is:
 
 `git clone https://github.com/<GITHUB_USERNAME>/<GITHUB_USERNAME>.github.io.git`
 
-**Step 4:** Clear out your local copy of your github.io repository and prepare it to transfer these files.  
+**Step 2:** Clear out your local copy of your github.io repository and prepare it to transfer these files.  
 
-*NOTE:* if you uploaded an index.html file as part of Homework #5, make sure you delete this -- *there should be nothing in your local copy of your repository at this stage* (accept for any "hidden files" that start with a ".", which will probably not be visible to you unless you know how to look for them).
+*NOTE:* if you uploaded an index.html file as part of Homework #5, make sure you delete this -- *there should be nothing in your local copy of your repository at this stage* (except for any "hidden files" that start with a ".", which will probably not be visible to you unless you know how to look for them).
 
-**Step 5:** Copy the contents from the unpacked `online_cv_public-main` directory to your cloned github.io repository.
+**Step 3:** Copy the contents from the unpacked `online_cv_public-main` directory to your cloned github.io repository.
 
 Your github.io directory should now look like:
 
 <img src="images/seeInitialgp.png" width="800px" alt="list of downloaded files from online resume template">
 
-**Step 6:** change to your github.io directory with `cd <PATH_TO_LOCAL_REPO>/<GITHUB_USERNAME>.github.io.git` in the Terminal/Anaconda Prompt
+## 4. Host your webpage locally
 
-**Step 7:** In this directory, build the Jekyll page with `bundle install` in the Terminal/Anaconda Prompt
+**Step 1:** change to your github.io directory with `cd <PATH_TO_LOCAL_REPO>/<GITHUB_USERNAME>.github.io.git` in the Terminal/Anaconda Prompt
+
+**Step 2:** In this directory, build the Jekyll page with `bundle install` in the Terminal/Anaconda Prompt
 
 <img src="images/bundleinstall2.png" width="700px" alt="install jekyll page with bundle install">
 
 You should see this at the end of the bundle command.
 
-**Step 8:** Serve the site locally with `bundle exec jekyll serve`
+**Step 3:** Serve the site locally with `bundle exec jekyll serve`
 
 <img src="images/websitepopup2.png" width="900px" alt="cd into online cv directory">
 
-**Step 9:** Navigate to the URL listed in a Chrome or Firefox browser -- in the above image this is `http://127.0.0.1:4008/`.  You should see the following page pop up:
+**Step 4:** Navigate to the URL listed in a Chrome or Firefox browser -- in the above image this is `http://127.0.0.1:4008/`.  You should see the following page pop up:
 
 ![picture of running local webpage](images/servesitelocal2.png)
 
 
-**Step 10 -- First part of submission:** Take a screenshot of a side-by-side of your running Terminal/Anaconda Prompt and the served webpage like so:
+**Step 5 -- First part of submission:** Take a screenshot of a side-by-side of your running Terminal/Anaconda Prompt and the served webpage like so:
 
 ![submission](images/submissionscreenshot1.png)
 
 This screenshot serves as your submission for this portion of the homework assignment.
 
-**Step 11:** Push your local changes to your remote hosting page with git commands:
+## 5. Host your webpage remotely
+
+**Step 1:** Push your local changes to your remote hosting page with git commands:
 
 `git status` (check the additions to be made)
 
@@ -127,7 +133,7 @@ This screenshot serves as your submission for this portion of the homework assig
 
 `git push` (push all changes from local to remote site)
 
-**Step 12 -- Second part of submission:** Wait for your site to build (you can check the Environments tab or just keep refreshing your <GITHUB_USERNAME>.github.io webpage).  Once that is loaded and looks like your locally hosted version, submit your github.io URL as the second part of your submission.  You can do this in a document or as a comment to your submission (mine would be something like: "updated URL: jnaiman.github.io").
+**Step 2 -- Second part of submission:** Wait for your site to build (you can check the Environments tab or just keep refreshing your <GITHUB_USERNAME>.github.io webpage).  Once that is loaded and looks like your locally hosted version, submit your github.io URL as the second part of your submission.  You can do this in a document or as a comment to your submission (mine would be something like: "updated URL: jnaiman.github.io").
 
 
 
