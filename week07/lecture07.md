@@ -233,14 +233,14 @@ this is another nightmare scenario like Mercator that was initially created for 
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 What happens when we make a map that minimizes one region and maximizes
 another?
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 <!--
 <iframe width="1024" height="576" src="https://www.youtube.com/embed/vVX-PrBRtTY?rel=0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -255,7 +255,7 @@ after watching this, it's useful to know that the Peters projection is actually 
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 [The True Size Of...](https://thetruesize.com)
 
@@ -266,13 +266,13 @@ Let's go see what Greenland actually looks like ...
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 Why is Europe at the center of all the maps we've looked at?
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 <img src="images/Azimuthal_equidistant_projection.jpg" width="512"/>
 
@@ -280,14 +280,15 @@ notes: there is nothing specifically wrong with putting a pole at the center of 
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 <img src="images/Azimuthal_equidistant_tissot.png" width="512"/>
 
 notes: also see here that now the equator is very distorted, and the south pole even more so!
 
 ---
-## Discussion
+
+## Why bother thinking about projections?
 
 <img src="images/Waterman_projection.png" width="512"/>
 
@@ -295,7 +296,7 @@ notes: or why bother having a spherical or rectangular shape at all?
 
 ---
 
-## Discussion
+## Why bother thinking about projections?
 
 <img src="images/Waterman_tissot.png" width="512"/>
 
@@ -319,6 +320,17 @@ Take care with:
  * Zero points
  * North/South, East/West
  * Ranges
+
+---
+
+## Maps: What to plot?
+
+![girt](https://pbs.twimg.com/media/FpbvfrEXEBgE5_Y?format=jpg&name=small)
+
+Source: [Terrible Maps Twitter](https://twitter.com/TerribleMaps?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+
+notes:
+terrible maps are actually really great!
 
 ---
 
