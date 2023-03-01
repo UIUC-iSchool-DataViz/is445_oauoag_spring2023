@@ -70,11 +70,11 @@ See above notes about making sure to run a few things in your Terminal window af
  
 For Mac, you should have git already installed (but you can install it [here](https://git-scm.com/download/mac) just in case).
 
-**Step 1:** Download the online-resume template Jekyll page by [clicking on this link here](https://github.com/jnaiman/online_cv_public/archive/master.tar.gz).  This should download a file called `master.tar.gz`.
+**Step 1:** Download the online-resume template Jekyll page by [clicking on this link here](https://github.com/jnaiman/online_cv_public/archive/master.tar.gz).  This should download a file called `online_cv_public-main.tar.gz`.
 
 **Step 2:** Unpack this gzip-ed tar ball in the "usual way" for your machine.  
 
-For example, on a Mac, if you are in the command line you could run `tar -xvf master.tar.gz` 
+For example, on a Mac, if you are in the command line you could run `tar -xvf online_cv_public-main.tar.gz` 
 
 You should now see a directory called `online_cv_public-main` which contains the following files:
 
