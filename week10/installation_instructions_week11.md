@@ -114,7 +114,27 @@ You should see this at the end of the bundle command.
 
 **Step 3:** Serve the site locally with `bundle exec jekyll serve`
 
+If everything is working, you should see: 
+
 <img src="images/websitepopup2.png" width="900px" alt="cd into online cv directory">
+
+
+#### Notes for Windows installs:
+
+**PAGES_REPO_NWO error:** If you see this error:
+
+<img src="images/windows_liquid_exception.png" width="700px" alt="liquid exception error">
+
+Open up the `_config.yml` file and set the `repositry` variable to your user name (as opposed to mine).
+
+**tainted? error:** If you see this error:
+
+<img src="images/tainted_windows.png" width="900px" alt="tainted error">
+
+Try deleting the file "Gemfile.lock", then do in the command line:
+ 1. `bundle update github-pages`
+ 1. `bundle install`
+ 
 
 **Step 4:** Navigate to the URL listed in a Chrome or Firefox browser -- in the above image this is `http://127.0.0.1:4008/`.  You should see the following page pop up:
 

@@ -232,7 +232,27 @@ This should download a file, that can have a few different names, it might be ca
 
 <p><strong>Step 3:</strong> Serve the site locally with <code class="language-plaintext highlighter-rouge">bundle exec jekyll serve</code></p>
 
+<p>If everything is working, you should see:</p>
+
 <p><img src="images/websitepopup2.png" width="900px" alt="cd into online cv directory" /></p>
+
+<h4 id="notes-for-windows-installs">Notes for Windows installs:</h4>
+
+<p><strong>PAGES_REPO_NWO error:</strong> If you see this error:</p>
+
+<p><img src="images/windows_liquid_exception.png" width="700px" alt="liquid exception error" /></p>
+
+<p>Open up the <code class="language-plaintext highlighter-rouge">_config.yml</code> file and set the <code class="language-plaintext highlighter-rouge">repositry</code> variable to your user name (as opposed to mine).</p>
+
+<p><strong>tainted? error:</strong> If you see this error:</p>
+
+<p><img src="images/tainted_windows.png" width="900px" alt="tainted error" /></p>
+
+<p>Try deleting the file “Gemfile.lock”, then do in the command line:</p>
+<ol>
+  <li><code class="language-plaintext highlighter-rouge">bundle update github-pages</code></li>
+  <li><code class="language-plaintext highlighter-rouge">bundle install</code></li>
+</ol>
 
 <p><strong>Step 4:</strong> Navigate to the URL listed in a Chrome or Firefox browser – in the above image this is <code class="language-plaintext highlighter-rouge">http://127.0.0.1:4008/</code>.  You should see the following page pop up:</p>
 
