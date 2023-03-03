@@ -104,7 +104,7 @@ Your github.io directory should now look like:
 
 ## 4. Host your webpage locally
 
-**Step 1:** change to your github.io directory with `cd <PATH_TO_LOCAL_REPO>/<GITHUB_USERNAME>.github.io.git` in the Terminal/Anaconda Prompt
+**Step 1:** change to your github.io directory with `cd <PATH_TO_LOCAL_REPO>/<GITHUB_USERNAME>.github.io` in the Terminal/Anaconda Prompt
 
 **Step 2:** In this directory, build the Jekyll page with `bundle install` in the Terminal/Anaconda Prompt
 
