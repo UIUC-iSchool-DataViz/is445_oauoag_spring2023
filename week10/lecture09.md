@@ -2,7 +2,7 @@
 title: Lecture 9 - Viz audience, Final Project Info
 layout: lecture
 description: >-
- Considerations of audience, review about final projects, more with vega lite & Starboard, Jekyll
+ Considerations of audience, review about final projects, more with vega lite & Starboard
 date: 2023-03-21
 
 ---
