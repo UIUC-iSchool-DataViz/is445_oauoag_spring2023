@@ -14,6 +14,11 @@ examples:
     title: Prep Starboard Notebook, Week 10
     description: Prep Starboard Notebook
     link: https://starboard.gg/nb/n9nb6N8
+  - filename: prep_notebook_week10_fall2022
+    type: iodide
+    title: Extra: Dashboard in Starboard
+    description: Prep Starboard Notebook
+    link: https://starboard.gg/nb/nuXwr0l
   - filename: prep_notebook_week11
     type: iodidePast
     title: Previous class notebook
