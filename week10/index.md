@@ -16,7 +16,7 @@ examples:
     link: https://starboard.gg/nb/n9nb6N8
   - filename: prep_notebook_week10_fall2022
     type: iodide
-    title: Extra: Dashboard in Starboard
+    title: Extra Starboard - Dashboarding
     description: Prep Starboard Notebook
     link: https://starboard.gg/nb/nuXwr0l
   - filename: prep_notebook_week11
