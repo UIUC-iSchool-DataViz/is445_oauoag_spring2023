@@ -3,20 +3,16 @@ title: Lecture 9 - Viz audience, Final Project Info
 layout: lecture
 description: >-
  Considerations of audience, review about final projects, more with vega lite & Starboard, Jekyll
-date: 2022-10-18
----
-
-## Many thanks to folks that filled out the survey!
-
-notes:
- * speed --> a bit fast to too fast to a bit slow
- * homeworks --> they are meant to challenge you, *but* we expect many folks to reach out in Slack/OH!
+date: 2023-03-21
 
 ---
 
 ## Last Week
 
 <img src="images/week08.png">
+
+notes:
+reminder from before the break!
 
 ---
 
@@ -523,9 +519,9 @@ There are three components, turned in the last three weeks of class.
 
 You will have three components:
 
-1. Viz for Self (Due November 11)
-1. Viz for Peers (Due November 18)
-1. Viz for Others (Due December 2 (for feedback), December 14 (final))
+1. Viz for Self (Due April 11 - individual)
+1. Viz for Peers (Due April 18 - group)
+1. Viz for Others (Due April 28 (for feedback), May 12 (final) - group)
 
 Be aware:
  * **NO** extensions for these assignments.
