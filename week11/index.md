@@ -28,7 +28,7 @@ examples:
     type: iodide
     title: In class Jekyll resources, Week 10
     description: Updating storage of Jekyll files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week10/inClass
+    link: https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023/tree/master/week11/inClass
   - filename: prep_notebook_week10_fall2022
     type: iodide
     title: Extra Starboard - Dashboarding
