@@ -210,7 +210,7 @@ notes:
 
 ## Jekyll installation
 
-We did this in Homework #7 [recall instructions here](https://uiuc-ischool-dataviz.github.io/is445_bcubcg_fall2022/week09/installation_instructions_week11.html).
+We did this in Homework #7 [recall instructions here](https://uiuc-ischool-dataviz.github.io/is445_oauoag_spring2023/week10/installation_instructions_week11.html).
 
 notes:
 the good news is that if we recall homework #7 we already installed jekyll!  now we'll actually start making modifcations to your webpages in order to host your own content (and final projects) and publishing to github
