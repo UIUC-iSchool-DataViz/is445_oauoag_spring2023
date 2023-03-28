@@ -123,4 +123,3 @@ exclude:
   - "*.log"
   - "*.ipynb"
   - "python_notebooks/*"
-  - "tmp_old/*"
