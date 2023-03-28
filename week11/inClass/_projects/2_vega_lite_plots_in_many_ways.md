@@ -19,7 +19,7 @@ This project will show how to use vega-lite to make plots using different method
 <vegachart schema-url="{{ site.baseurl }}/assets/json/cars.json" style="width: 100%"></vegachart>
 ```
 
-
+## 1. Directly from vega-editor
 
 
 
