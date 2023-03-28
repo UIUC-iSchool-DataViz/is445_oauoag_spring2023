@@ -1,6 +1,8 @@
 {
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-  "data": {"url": "data/disasters.csv"},
+  "data": {
+    "url": "https://raw.githubusercontent.com/vega/vega-datasets/next/data/disasters.csv"
+  },
   "width": 600,
   "height": 400,
   "transform": [{"filter": "datum.Entity !== 'All natural disasters'"}],
