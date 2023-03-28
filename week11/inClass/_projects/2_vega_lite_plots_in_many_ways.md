@@ -23,6 +23,7 @@ This project will show how to use vega-lite to make plots using different method
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot1.json" style="width: 100%"></vegachart>
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot2.json" style="width: 100%"></vegachart>
 
 <!-- these are written in a combo of html and liquid --> 
 
