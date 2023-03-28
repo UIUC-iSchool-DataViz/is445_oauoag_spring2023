@@ -4,7 +4,7 @@
   color: danger
 
 - name: Go
-  percentage: 50
+  percentage: 5
   level: Beginner
   color:
 
