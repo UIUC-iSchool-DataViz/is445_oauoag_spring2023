@@ -7,7 +7,7 @@
 ### Site Settings ###
 title               : Jill Naiman 
 description         : >-
-                      I am definitely not a corgi!
+                      I could possibly be a corgi!
 baseurl             : ""   # Change to empty quotes if you are hosting your site at <your-username>.github.io directly,
 #                                             otherwise will be hosted at <your-username>.github.io/{{base_url}}
 repository          : jnaiman               # Change to <your-username>/<your-username>.github.io (or remove it if you don't need remote projects)
