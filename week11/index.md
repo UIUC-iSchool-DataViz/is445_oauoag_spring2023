@@ -29,14 +29,6 @@ examples:
     title: In class Jekyll resources, Week 10
     description: Updating storage of Jekyll files in class
     link: https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023/tree/master/week11/inClass
-  - filename: inClass_week11.ipynb
-    type: ipynbInClass
-    title: In class Jupyter Notebook, Week 11
-    description: In class notebook for this week
-  - filename: prep_notebook_week11.ipynb
-    type: ipynb
-    title: Prep Jupyter Notebook, Week 11
-    description: Prep notebook for this week
   - filename: prep_notebook_week10_fall2022
     type: iodide
     title: Extra Starboard - Dashboarding
