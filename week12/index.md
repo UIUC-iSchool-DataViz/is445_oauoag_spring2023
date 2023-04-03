@@ -13,7 +13,7 @@ examples:
     type: iodide
     title: Prep Jekyll materials, Week 12
     description: We'll be building toward a webpage like <a href="https://jnaiman.github.io/online_cv_public/">this</a> today using <a href="https://jekyllrb.com/">Jekyll</a>+<a href="https://altair-viz.github.io/index.html">Altair</a>. 
-    link: https://github.com/jnaiman/online_cv_public/blob/main/_example_projects/3_vega_plots_four_ways.md
+    link: https://github.com/jnaiman/online_cv_public/blob/main/_example_projects/2_vega_plots_four_ways.md
   - filename: inClass_week12.ipynb
     type: ipynb
     title: In Class Notebook, Week 12
