@@ -32,6 +32,17 @@ While we'll just touch on vega-lite in Jekyll for plotting and then start lookin
 
 ---
 
+## Notes on th last two weeks of class
+
+Weeks 15 & 16 will have some pre-recorded materials for the extra credit assignments.
+
+There will be short lectures and the rest of the time we'll have space to work on your Final Projects (as a group or in breakout groups).
+
+notes:
+you can stay in the main room, or there will be breakout rooms for you as well!
+
+---
+
 ## Today
 
  1. Validation 
