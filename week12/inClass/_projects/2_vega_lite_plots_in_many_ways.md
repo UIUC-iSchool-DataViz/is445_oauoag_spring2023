@@ -42,6 +42,11 @@ Now here is an example of a side-by-side plot (not interactive though):
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/static_mobility_dashboard.json" style="width: 100%"></vegachart>
 
+I have added some interactivity with a `altair.selection_interval` and `transform_filter`:
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/dashboard_of_mobility.json" style="width: 100%"></vegachart>
+
+
 
 
 
