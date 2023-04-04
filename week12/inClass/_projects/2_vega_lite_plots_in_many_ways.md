@@ -32,6 +32,8 @@ our `assets/pngs` folder with Markdown:
 
 ![a vegalite plot with interactive legend]({{site.baseurl}}/assets/pngs/vegalitemanyways.png)
 
+![example image of vega-lite copied from google search](https://vega.github.io/images/vega-lite.png)
+
 
 
 
