@@ -36,7 +36,7 @@ our `assets/pngs` folder with Markdown:
 
 ## 3. For real this time, vega-lite from vega-specs to JSON with Altair in Python
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
 
 
