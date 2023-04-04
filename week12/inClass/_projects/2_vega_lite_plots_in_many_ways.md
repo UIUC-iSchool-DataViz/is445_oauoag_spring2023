@@ -38,6 +38,10 @@ our `assets/pngs` folder with Markdown:
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/chart1.json" style="width: 100%"></vegachart>
 
+Now here is an example of a side-by-side plot (not interactive though):
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/static_mobility_dashboard.json" style="width: 100%"></vegachart>
+
 
 
 
