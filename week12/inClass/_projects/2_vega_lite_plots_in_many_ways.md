@@ -30,7 +30,7 @@ This project will show how to use vega-lite to make plots using different method
 We can include our own images that we have stored in 
 our `assets/pngs` folder with Markdown:
 
-![a vegalite plot with interactive legend]({{site.baseurl}}/assets/json/vegalitemanyways.png)
+![a vegalite plot with interactive legend]("{{site.baseurl}}/assets/json/vegalitemanyways.png")
 
 
 
