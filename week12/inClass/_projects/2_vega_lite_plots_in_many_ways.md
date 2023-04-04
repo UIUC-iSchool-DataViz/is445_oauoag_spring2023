@@ -34,6 +34,8 @@ our `assets/pngs` folder with Markdown:
 
 ![example image of vega-lite copied from google search](https://vega.github.io/images/vega-lite.png)
 
+## 3. For real this time, vega-lite from vega-specs to JSON with Altair in Python
+
 
 
 
