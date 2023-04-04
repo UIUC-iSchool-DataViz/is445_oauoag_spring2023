@@ -31,6 +31,8 @@ This project will show how to use vega-lite to make plots using different method
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
 
+## 2. Quick detour with images
+
 <div class="right">
 {% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
 </div>
