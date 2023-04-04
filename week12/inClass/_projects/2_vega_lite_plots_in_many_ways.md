@@ -25,13 +25,24 @@ This project will show how to use vega-lite to make plots using different method
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/vega_editor_plot2.json" style="width: 100%"></vegachart>
 
+## 2. Quick detour with images
+
+
+
+
+
+
+
+
+
+
+
 <!-- these are written in a combo of html and liquid --> 
 
 <div class="left">
 {% include elements/button.html link="https://github.com/vega/vega/blob/main/docs/data/cars.json" text="The Data" %}
 </div>
 
-## 2. Quick detour with images
 
 <div class="right">
 {% include elements/button.html link="https://github.com/jnaiman/online_cv_public/blob/main/python_notebooks/test_generate_plots.ipynb" text="The Analysis" %}
