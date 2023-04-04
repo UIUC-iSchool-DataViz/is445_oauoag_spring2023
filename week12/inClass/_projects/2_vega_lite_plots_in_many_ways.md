@@ -50,6 +50,7 @@ I have added some interactivity with a `altair.selection_interval` and `transfor
 
 <vegachart schema-url="{{ site.baseurl }}/assets/json/population_scatter.json" style="width: 100%"></vegachart>
 
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_dashboard.json" style="width: 100%"></vegachart>
 
 
 
