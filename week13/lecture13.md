@@ -761,3 +761,14 @@ several of us at the NCSA worked on ytini so that Houdini could use some of the 
 
 This is also true of Dr. Naiman's work on Astroblend.
 
+---
+
+## Final Project, Part 2
+
+Let's take a look!
+
+notes:
+
+* go over
+* should we push this back a few days (maybe that friday?)
+
