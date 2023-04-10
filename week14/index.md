@@ -35,7 +35,7 @@ data:
     link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/corgiData_countries_subset_2020.json
 ---
 
-# A few more Jekyll+Altair things, Starting SciViz
+# A few more Jekyll+Altair things & Guest Lecture from NCSA AVL
 
 A few more things in Jekyll+Altair.
 
