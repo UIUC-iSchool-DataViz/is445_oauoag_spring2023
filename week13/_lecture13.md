@@ -1,53 +1,19 @@
-<!doctype html>
-<html>
-  <head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+---
+title: Lecture 12 - More on Jekyll
+layout: lecture
+description: >-
+ More on Jekyll+vega-lite+Altair
+date: 2022-11-01
+---
 
-<title>Lecture 11 - Publishing & Validation</title>
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reset.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/theme/white.css">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/5.11.2/css/font-awesome.min.css">
-
-<!-- Theme used for syntax highlighting of code -->
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css">
-<link href="https://fonts.googleapis.com/css?family=Questrial" rel="stylesheet">
-
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/dist/reveal.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/markdown/markdown.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/highlight/highlight.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/notes/notes.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/reveal.js@4.0.2/plugin/math/math.js"></script>
-
-
-
-</style>
-
-  <link rel="stylesheet/less" type="text/css" href="/is445_oauoag_spring2023/assets/styles.less" />
-  </head>
-
-  <body>
-    <div class="reveal">
-      <div class="slides">
-          <section class="titleslide">
-              <h1>Lecture 11 - Publishing & Validation</h1>
-              <h2>Jill Naiman</h2>
-              <h2>Data Visualization - Spring 2023</h2>
-          </section>
-        <section data-markdown
-           data-separator="^\n---\n"
-           data-separator-vertical="^\n----\n">
-          <script type="text/template">
 ## Be aware: prep "projects" will be stored in `_example_projects/` folder!
 
 ---
 
-## Reminder: Homework \#10 date has been pushed back.
+## Push Homework \#10 date back a bit?
 
 note:
-this won't change the due date of the Final Project Part 1 -- BUT we could push this due date to like Thurs instead of Tuesday?
+this won't change the due date of the Final Project Part 1, so this would be like a Tues/Wed due date
 
 NO extensions for Final Project, Part 1
 
@@ -55,25 +21,14 @@ NO extensions for Final Project, Part 1
 
 ## Last Week/This Week
 
-<img src="images/week12.png">
+<img src="../week10/images/week10.png">
 
 notes:
 so far, we've been covering a bit of javascript and vega-lite and started thinking about it in Jekyll webpages
 
 this week we'll discuss more general methods of publishing, and we'll talk about how to validate how "well" our visualizations are doing.
 
-While we'll just touch on vega-lite in Jekyll for plotting and then start looking at Altair at the end of this week
-
----
-
-## Notes on the last two weeks of class
-
-Weeks 15 & 16 will have some pre-recorded materials for the extra credit assignments.
-
-There will be short lectures and the rest of the time we'll have space to work on your Final Projects (as a group or in breakout groups).
-
-notes:
-you can stay in the main room, or there will be breakout rooms for you as well!
+While we'll just touch on vega-lite in Jekyll for plotting and then start looking at Altair either this week or next week
 
 ---
 
@@ -441,39 +396,3 @@ We'll start off with this method, and then run up into some limitations when we 
 ## Coding
 
 Onto some vega-lite in Jekyll!
-
-          </script>
-        </section>
-      </div>
-    </div>
-<script>
-    // More info about config & dependencies:
-    // - https://github.com/hakimel/reveal.js#configuration
-    // - https://github.com/hakimel/reveal.js#dependencies
-    Reveal.initialize({
-        fragments: true,
-        fragmentInURL: true,
-        hash: true,
-        width: 1024,
-        height: 768,
-        margin: 0.02,
-        plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath],
-        dependencies: [
-            { src: 'https://cdn.jsdelivr.net/npm/reveald3@1.5.5/reveald3.js'}
-        ],
-		keyboard: {
-		},
-        center: false,
-        transition: 'none',
-        backgroundTransition: 'none',
-        reveald3: {
-            runLastState: false
-        }
-    });
-</script>
-<script src="//cdnjs.cloudflare.com/ajax/libs/less.js/3.9.0/less.min.js" ></script>
-
-
-  </body>
-</html>
-

@@ -21,7 +21,7 @@ NO extensions for Final Project, Part 1
 
 ## Last Week/This Week
 
-<img src="../week11/images/week10.png">
+<img src="images/week12.png">
 
 notes:
 so far, we've been covering a bit of javascript and vega-lite and started thinking about it in Jekyll webpages
