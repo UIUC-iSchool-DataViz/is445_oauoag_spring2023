@@ -18,9 +18,13 @@ examples:
     type: ipynb
     title: In Class Notebook, Week 13
     description: In class notebook
-  - filename: prep_notebook_week13.ipynb
+  - filename: prep_notebook_week13_part1.ipynb
     type: ipynb
-    title: Prep Notebook, Week 13
+    title: Prep Notebook, Week 13, Part 1
+    description: Prep notebook for this week
+  - filename: prep_notebook_week13_part2.ipynb
+    type: ipynb
+    title: Prep Notebook, Week 13, Part 2
     description: Prep notebook for this week
 data:
   - filename: mobility.csv
@@ -28,6 +32,17 @@ data:
     title: The Mobility dataset (online)
     description: A dataset of USA "mobility" which (I <b>think</b> comes from a <a href="https://www.census.gov/library/working-papers/2018/adrm/CES-WP-18-40R.html">a large census study from 1989-2015</a>) and is collected in several places <a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/mobility.csv">including right here</a>.  Here "mobility" is refering to how easy it is for a person to move up in economic status (<a href="http://www.stat.cmu.edu/~cshalizi/uADA/15/hw/01/hw-01.pdf">more info can be found here</a>) based on factors like parental income, location, race, etc.
     link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/mobility.csv
+  - filename: building_inventory.csv
+    type: dataLink
+    title: Buildings dataset
+    description: Illinois buildings dataset
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/building_inventory.csv
+  - filename: corgs_per_country_over_time_columns_2020.csv
+    type: dataLink
+    title: Corgis per country over time 
+    description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/corgs_per_country_over_time_columns_2020.csv
+
 ---
 
 # More with Jekyll+Altair, Intro to SciViz
