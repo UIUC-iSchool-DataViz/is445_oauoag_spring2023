@@ -1,8 +1,8 @@
 ---
-name: Vega lite plots, multiple ways
+name: More with Altair
 tools: [Python, HTML, vega-lite, Altair]
 image: assets/pngs/vegalitemanyways.png
-description: Vega-lite plots using different methods.
+description: Even more plots with Altair.
 custom_js:
   - vega.min
   - vega-lite.min
