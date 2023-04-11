@@ -1,7 +1,7 @@
 ---
 name: More with Altair
 tools: [Python, HTML, vega-lite, Altair]
-image: assets/pngs/vegalitemanyways.png
+image: assets/pngs/manyplotsaltair.png
 description: Even more plots with Altair.
 custom_js:
   - vega.min
