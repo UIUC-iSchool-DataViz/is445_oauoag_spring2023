@@ -53,6 +53,9 @@ I have added some interactivity with a `altair.selection_interval` and `transfor
 <vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_dashboard.json" style="width: 100%"></vegachart>
 
 
+## 4. Plots in Altair with locally hosted data
+
+<vegachart schema-url="{{ site.baseurl }}/assets/json/altair_mobility_local_dashboard.json" style="width: 100%"></vegachart>
 
 
 
