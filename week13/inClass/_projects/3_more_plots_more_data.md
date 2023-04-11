@@ -11,7 +11,7 @@ custom_js:
 ---
 
 
-# Use Vega-lite in Many Ways in Jekyll
+# More Altair Plots
 
 
 ```
