@@ -6,33 +6,38 @@ notitle: true
 examples:
   - filename: In Class Jekyll
     type: iodide
-    title: In class Jekyll resources, Week 13
+    title: In class Jekyll resources, Week 14
     description: Updating storage of Jekyll files in class
-    link: https://github.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/tree/master/week13/inClass
+    link: https://github.com/UIUC-iSchool-DataViz/is445_oauoag_spring2023/tree/master/week14/inClass
   - filename: Prep repo
     type: iodide
-    title: Prep Jekyll, Week 13
+    title: Prep Jekyll, Week 14
     description: Prep Jekyll file and components
     link: https://github.com/jnaiman/online_cv_public
-  - filename: inClass_week13.ipynb
+  - filename: inClass_week14.ipynb
     type: ipynb
-    title: In class jupyter notebook, Week 13
+    title: In class jupyter notebook, Week 14
     description: Placeholder for in class coding
   - filename: prep_notebook_week13_part1.ipynb
     type: ipynb
-    title: Prep Notebook, Week 13
+    title: Prep Notebook, Week 14
     description: Prep notebook for this week
 data:
+  - filename: building_inventory.csv
+    type: dataLink
+    title: Buildings dataset
+    description: Illinois buildings dataset
+    link: https://github.com/UIUC-iSchool-DataViz/is445_data/raw/main/building_inventory.csv
   - filename: corgs_per_country_over_time_columns_2020.csv
     type: dataLink
     title: Corgis per country over time 
     description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/corgs_per_country_over_time_columns_2020.csv
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/corgs_per_country_over_time_columns_2020.csv
   - filename: corgiData_countries_subset_2020.json
     type: dataLink
     title: Subset of full Corgi database 
     description: This dataset is from the <a href="http://cardiped.net/">Cardigan Archives</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/grabCorgData_subpages.py">scraped using Beautiful Soup in Python</a> and <a href="https://github.com/UIUC-iSchool-DataViz/spring2020/blob/master/week12/corg/calc_corgData.ipynb">further processed in Python</a> into this form.
-    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_bcubcg_fall2022/main/data/corgiData_countries_subset_2020.json
+    link: https://raw.githubusercontent.com/UIUC-iSchool-DataViz/is445_data/main/corgiData_countries_subset_2020.json
 ---
 
 # A few more Jekyll+Altair things & Guest Lecture from NCSA AVL
