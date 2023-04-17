@@ -13,14 +13,14 @@ examples:
     type: iodide
     title: Prep Jekyll, Week 14
     description: Prep Jekyll file and components
-    link: https://github.com/jnaiman/online_cv_public
+    link: https://raw.githubusercontent.com/jnaiman/online_cv_public/main/_example_projects/3_more_complex_python_with_altair.md
   - filename: inClass_week14.ipynb
     type: ipynb
     title: In class jupyter notebook, Week 14
     description: Placeholder for in class coding
-  - filename: prep_notebook_week13_part1.ipynb
+  - filename: prep_notebook_week14_part1.ipynb
     type: ipynb
-    title: Prep Notebook, Week 14
+    title: Prep Notebook, Week 14 (Part 1)
     description: Prep notebook for this week
 data:
   - filename: building_inventory.csv
