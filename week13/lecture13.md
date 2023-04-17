@@ -1,5 +1,5 @@
 ---
-title: Lecture 13 - 3D graphics, Intro to SciViz
+title: Lecture 12 - 3D graphics, Intro to SciViz
 layout: lecture
 description: >-
  How your computer and the internet process 3D graphics.  What is scientific visualization? 
