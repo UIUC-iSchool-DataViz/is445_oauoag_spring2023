@@ -22,6 +22,10 @@ examples:
     type: ipynb
     title: Prep Notebook, Week 14 (Part 1)
     description: Prep notebook for this week
+  - filename: prep_notebook_week14_part2.ipynb
+    type: ipynb
+    title: Prep Notebook, Week 14 (Part 2)
+    description: Prep notebook for this week
 data:
   - filename: building_inventory.csv
     type: dataLink
