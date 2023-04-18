@@ -15,7 +15,7 @@ custom_js:
 
 First a "simple" line plot with Altair:
 
-<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_stats1.json" style="width: 100%"></vegachart>
+<vegachart schema-url="{{ site.baseurl }}/assets/json/buildings_sqrt.json" style="width: 100%"></vegachart>
 
 
 
